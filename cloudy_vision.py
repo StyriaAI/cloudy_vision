@@ -14,6 +14,7 @@ import vendors.clarifai_
 import vendors.ibm
 import vendors.cloudsight_
 import vendors.rekognition
+import vendors.styria
 
 
 SETTINGS = None
@@ -38,6 +39,7 @@ def settings(name):
                 'ibm' : vendors.ibm,
                 'cloudsight' : vendors.cloudsight_,
                 'rekognition' : vendors.rekognition,
+                'styria': vendors.styria
             },
             'resize': True,
             'statistics': [
