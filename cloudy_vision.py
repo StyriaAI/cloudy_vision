@@ -180,7 +180,7 @@ def process_all_images():
 
         # Walk through all vendor APIs to call.
         for vendor_name, vendor_module in sorted(
-                settings('vendors').iteritems(), reverse=True):
+                settings('vendors').items(), reverse=True):
 
             # Figure out filename to store and retrive cached JSON results.
             output_json_filename = filename + "." + vendor_name + ".json"
@@ -274,7 +274,7 @@ def process_all_images():
     # Write HTML output.
     output_html_filepath = os.path.join(settings('output_dir'), 'output.html')
     with open(output_html_filepath, 'w') as output_html_file:
-        output_html_file.write(output_html.encode('utf-8'))
+        output_html_file.write(output_html)
 
 
 if __name__ == "__main__":
