@@ -1,0 +1,50 @@
+{
+    "Labels": [
+        {
+            "Confidence": 89.81404876708984,
+            "Name": "Connector"
+        },
+        {
+            "Confidence": 89.81404876708984,
+            "Name": "Electrical Device"
+        },
+        {
+            "Confidence": 85.99502563476562,
+            "Name": "Electronics"
+        },
+        {
+            "Confidence": 85.99502563476562,
+            "Name": "Keyboard"
+        },
+        {
+            "Confidence": 56.19839859008789,
+            "Name": "Console"
+        },
+        {
+            "Confidence": 51.52545166015625,
+            "Name": "Engine"
+        },
+        {
+            "Confidence": 51.52545166015625,
+            "Name": "Machine"
+        },
+        {
+            "Confidence": 51.52545166015625,
+            "Name": "Motor"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "461",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 15 Feb 2018 12:18:49 GMT",
+            "x-amzn-requestid": "61057ea3-124a-11e8-94f0-45d4ccd0f624"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "61057ea3-124a-11e8-94f0-45d4ccd0f624",
+        "RetryAttempts": 0
+    },
+    "response_time": 0.44228529930114746
+}

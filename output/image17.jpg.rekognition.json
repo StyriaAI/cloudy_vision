@@ -1,0 +1,54 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.01306915283203,
+            "Name": "Bar Stool"
+        },
+        {
+            "Confidence": 99.01306915283203,
+            "Name": "Furniture"
+        },
+        {
+            "Confidence": 71.63877868652344,
+            "Name": "Dining Table"
+        },
+        {
+            "Confidence": 71.63877868652344,
+            "Name": "Table"
+        },
+        {
+            "Confidence": 53.04627990722656,
+            "Name": "Chair"
+        },
+        {
+            "Confidence": 51.65110778808594,
+            "Name": "Dining Room"
+        },
+        {
+            "Confidence": 51.65110778808594,
+            "Name": "Indoors"
+        },
+        {
+            "Confidence": 51.65110778808594,
+            "Name": "Interior Design"
+        },
+        {
+            "Confidence": 51.65110778808594,
+            "Name": "Room"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "511",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 15 Feb 2018 12:17:38 GMT",
+            "x-amzn-requestid": "366b94b8-124a-11e8-ae40-6f07dbcfa789"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "366b94b8-124a-11e8-ae40-6f07dbcfa789",
+        "RetryAttempts": 0
+    },
+    "response_time": 0.44120025634765625
+}

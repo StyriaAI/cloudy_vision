@@ -1,0 +1,34 @@
+{
+    "Labels": [
+        {
+            "Confidence": 93.00273895263672,
+            "Name": "Backpack"
+        },
+        {
+            "Confidence": 93.00273895263672,
+            "Name": "Bag"
+        },
+        {
+            "Confidence": 90.54524993896484,
+            "Name": "Luggage"
+        },
+        {
+            "Confidence": 90.54524993896484,
+            "Name": "Suitcase"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "245",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 15 Feb 2018 12:20:54 GMT",
+            "x-amzn-requestid": "ab62f886-124a-11e8-91d9-4177c74df54e"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "ab62f886-124a-11e8-91d9-4177c74df54e",
+        "RetryAttempts": 0
+    },
+    "response_time": 0.40106201171875
+}

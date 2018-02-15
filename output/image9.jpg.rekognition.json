@@ -1,0 +1,26 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.31011199951172,
+            "Name": "Lathe"
+        },
+        {
+            "Confidence": 99.31011199951172,
+            "Name": "Machine"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "145",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 15 Feb 2018 12:17:20 GMT",
+            "x-amzn-requestid": "2ae26545-124a-11e8-b460-5b6fa8a817e4"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "2ae26545-124a-11e8-b460-5b6fa8a817e4",
+        "RetryAttempts": 0
+    },
+    "response_time": 1.8046743869781494
+}

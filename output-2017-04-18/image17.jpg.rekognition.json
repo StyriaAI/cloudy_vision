@@ -1,0 +1,30 @@
+{
+    "Labels": [
+        {
+            "Confidence": 54.61532974243164,
+            "Name": "Siding"
+        },
+        {
+            "Confidence": 50.82842254638672,
+            "Name": "Architecture"
+        },
+        {
+            "Confidence": 50.82842254638672,
+            "Name": "Building"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "202",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 15 Feb 2018 11:47:05 GMT",
+            "x-amzn-requestid": "f1c47ec9-1245-11e8-81d6-0926f85cb4d6"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "f1c47ec9-1245-11e8-81d6-0926f85cb4d6",
+        "RetryAttempts": 0
+    },
+    "response_time": 0.6068980693817139
+}

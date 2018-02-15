@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2018-02-15T12:19:05.223357111Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_QCNhgQ6V",
+                        "name": "switch",
+                        "value": 0.9955605
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_GzNlpxwb",
+                        "name": "equipment",
+                        "value": 0.99463487
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_DWQjKqbV",
+                        "name": "console",
+                        "value": 0.99375236
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_62K34TR4",
+                        "name": "technology",
+                        "value": 0.9909197
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_HntXSJHk",
+                        "name": "knob",
+                        "value": 0.99045134
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Knf4kjCC",
+                        "name": "audio",
+                        "value": 0.98241556
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_7w4WJMw5",
+                        "name": "sound",
+                        "value": 0.9800512
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_NXK6g7Wb",
+                        "name": "phonograph record",
+                        "value": 0.97497797
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_xh4vNZQL",
+                        "name": "power",
+                        "value": 0.96979374
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_j0ZN6TfT",
+                        "name": "mixer",
+                        "value": 0.9692502
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_GfGWlw6b",
+                        "name": "panel",
+                        "value": 0.96862936
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_RkLqBL8X",
+                        "name": "stereo",
+                        "value": 0.9675846
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_169rtZhK",
+                        "name": "intensity",
+                        "value": 0.96588254
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_lvj2zQS4",
+                        "name": "control",
+                        "value": 0.96564794
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_hQ3J493L",
+                        "name": "air broadcast",
+                        "value": 0.9601078
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_ggQlMG6W",
+                        "name": "industry",
+                        "value": 0.94922936
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_XjXrH3qf",
+                        "name": "electronics",
+                        "value": 0.94204134
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_6thvRLnl",
+                        "name": "rack",
+                        "value": 0.94160366
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_t0T5z6G0",
+                        "name": "wire",
+                        "value": 0.9383286
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_fBL8hNWb",
+                        "name": "amplifier",
+                        "value": 0.9376596
+                    }
+                ]
+            },
+            "id": "b84c49a4da4f470abbeb0e99cea8ce9d",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "true",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img2/prod/small/aa95525549c34247952dbd3c29b06244/fd8059d3708240a3b31a22d8a4e6a562"
+                    }
+                },
+                "id": "f2ce5c9f317d445699b9e74cf0e90b8b"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 1.647850751876831,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

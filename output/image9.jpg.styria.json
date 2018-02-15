@@ -1,0 +1,19 @@
+{
+    "data": {
+        "categories": [
+            {
+                "id": 13387,
+                "name": "/Machines and tools/Machining / machines and tools/Machines and tools for metalworking/Parts and fittings of metalworking machinery"
+            },
+            {
+                "id": 13388,
+                "name": "/Machines and tools/Machining / machines and tools/Machines and tools for metalworking/Metal processing machine"
+            },
+            {
+                "id": 13394,
+                "name": "/Machines and tools/Machining / machines and tools/Woodworking machines and tools/Parts and equipment for woodworking machines"
+            }
+        ]
+    },
+    "response_time": 0.08613705635070801
+}

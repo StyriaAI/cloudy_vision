@@ -1,0 +1,35 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "tensimeter",
+                            "score": 0.952,
+                            "type_hierarchy": "/measuring instrument/tensimeter"
+                        },
+                        {
+                            "class": "measuring instrument",
+                            "score": 0.953
+                        },
+                        {
+                            "class": "gray color",
+                            "score": 0.792
+                        },
+                        {
+                            "class": "emerald color",
+                            "score": 0.672
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/image18.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.9078125953674316
+}

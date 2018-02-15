@@ -1,0 +1,76 @@
+{
+    "response_time": 1.3975849151611328,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "tire",
+                    "mid": "/m/0h9mv",
+                    "score": 0.96775657,
+                    "topicality": 0.96775657
+                },
+                {
+                    "description": "alloy wheel",
+                    "mid": "/m/02q8tbd",
+                    "score": 0.9664576,
+                    "topicality": 0.9664576
+                },
+                {
+                    "description": "wheel",
+                    "mid": "/m/083wq",
+                    "score": 0.9633967,
+                    "topicality": 0.9633967
+                },
+                {
+                    "description": "automotive tire",
+                    "mid": "/m/0h8pb3l",
+                    "score": 0.9419569,
+                    "topicality": 0.9419569
+                },
+                {
+                    "description": "spoke",
+                    "mid": "/m/016xt7",
+                    "score": 0.9347367,
+                    "topicality": 0.9347367
+                },
+                {
+                    "description": "rim",
+                    "mid": "/m/047vmg8",
+                    "score": 0.9324771,
+                    "topicality": 0.9324771
+                },
+                {
+                    "description": "motor vehicle",
+                    "mid": "/m/012f08",
+                    "score": 0.83615875,
+                    "topicality": 0.83615875
+                },
+                {
+                    "description": "automotive wheel system",
+                    "mid": "/m/0h8ly30",
+                    "score": 0.8258781,
+                    "topicality": 0.8258781
+                },
+                {
+                    "description": "auto part",
+                    "mid": "/m/08dz3q",
+                    "score": 0.8074474,
+                    "topicality": 0.8074474
+                },
+                {
+                    "description": "automotive exterior",
+                    "mid": "/m/0h8ls87",
+                    "score": 0.65755296,
+                    "topicality": 0.65755296
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

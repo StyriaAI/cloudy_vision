@@ -1,0 +1,70 @@
+{
+    "response_time": 1.370800495147705,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "machine tool",
+                    "mid": "/m/01b5w1",
+                    "score": 0.9164487,
+                    "topicality": 0.9164487
+                },
+                {
+                    "description": "machine",
+                    "mid": "/m/0dkw5",
+                    "score": 0.8739095,
+                    "topicality": 0.8739095
+                },
+                {
+                    "description": "hardware",
+                    "mid": "/m/03qtgkw",
+                    "score": 0.74666536,
+                    "topicality": 0.74666536
+                },
+                {
+                    "description": "metal lathe",
+                    "mid": "/m/07mk3n",
+                    "score": 0.7388311,
+                    "topicality": 0.7388311
+                },
+                {
+                    "description": "lathe",
+                    "mid": "/m/013992",
+                    "score": 0.656082,
+                    "topicality": 0.656082
+                },
+                {
+                    "description": "toolroom",
+                    "mid": "/m/0405h6p",
+                    "score": 0.62801784,
+                    "topicality": 0.62801784
+                },
+                {
+                    "description": "electronics",
+                    "mid": "/m/02mrp",
+                    "score": 0.54671615,
+                    "topicality": 0.54671615
+                },
+                {
+                    "description": "tool",
+                    "mid": "/m/07k1x",
+                    "score": 0.5390043,
+                    "topicality": 0.5390043
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/01jwgf",
+                    "score": 0.51257277,
+                    "topicality": 0.51257277
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

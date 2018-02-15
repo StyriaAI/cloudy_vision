@@ -1,0 +1,88 @@
+{
+    "adult": {
+        "adultScore": 0.012657488696277142,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.01958887092769146
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.9765625
+        }
+    ],
+    "color": {
+        "accentColor": "887943",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "Black"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.5506545590372633,
+                "text": "a washer and dryer"
+            }
+        ],
+        "tags": [
+            "appliance",
+            "indoor",
+            "white",
+            "cabinet",
+            "washer",
+            "sitting",
+            "small",
+            "black",
+            "oven",
+            "game",
+            "top",
+            "microwave",
+            "video",
+            "remote",
+            "room",
+            "standing",
+            "playing",
+            "kitchen",
+            "plate"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 256,
+        "width": 192
+    },
+    "requestId": "9668f42e-f88c-49cc-8338-77a862176441",
+    "response_time": 1.9850609302520752,
+    "tags": [
+        {
+            "confidence": 0.9987831711769104,
+            "hint": "animal",
+            "name": "appliance"
+        },
+        {
+            "confidence": 0.9941321015357971,
+            "name": "white goods"
+        },
+        {
+            "confidence": 0.9758368730545044,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.8831883668899536,
+            "name": "white"
+        },
+        {
+            "confidence": 0.6651945114135742,
+            "name": "washer"
+        }
+    ]
+}

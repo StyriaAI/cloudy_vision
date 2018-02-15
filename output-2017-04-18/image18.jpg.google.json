@@ -1,0 +1,70 @@
+{
+    "response_time": 1.088794231414795,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "product",
+                    "mid": "/m/02n3pb",
+                    "score": 0.84932363,
+                    "topicality": 0.84932363
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/01jwgf",
+                    "score": 0.79838353,
+                    "topicality": 0.79838353
+                },
+                {
+                    "description": "hardware",
+                    "mid": "/m/03qtgkw",
+                    "score": 0.7529814,
+                    "topicality": 0.7529814
+                },
+                {
+                    "description": "weighing scale",
+                    "mid": "/m/03txqz",
+                    "score": 0.7417997,
+                    "topicality": 0.7417997
+                },
+                {
+                    "description": "measuring instrument",
+                    "mid": "/m/056hv",
+                    "score": 0.7101649,
+                    "topicality": 0.7101649
+                },
+                {
+                    "description": "electronics accessory",
+                    "mid": "/m/0h8ksfs",
+                    "score": 0.6982708,
+                    "topicality": 0.6982708
+                },
+                {
+                    "description": "product design",
+                    "mid": "/m/03y18t",
+                    "score": 0.6742985,
+                    "topicality": 0.6742985
+                },
+                {
+                    "description": "electronics",
+                    "mid": "/m/02mrp",
+                    "score": 0.6321016,
+                    "topicality": 0.6321016
+                },
+                {
+                    "description": "medical equipment",
+                    "mid": "/m/01xgg_",
+                    "score": 0.525863,
+                    "topicality": 0.525863
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

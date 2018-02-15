@@ -1,0 +1,55 @@
+{
+    "adult": {
+        "adultScore": 0.007277257740497589,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.009393452666699886
+    },
+    "categories": [
+        {
+            "name": "abstract_",
+            "score": 0.00390625
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "building_brickwall",
+            "score": 0.73046875
+        }
+    ],
+    "color": {
+        "accentColor": "936838",
+        "dominantColorBackground": "Brown",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Brown"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.5130498172868678,
+                "text": "a close up of a building"
+            }
+        ],
+        "tags": [
+            "building",
+            "floor"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 192,
+        "width": 256
+    },
+    "requestId": "966ec3e7-8440-4593-8680-5b37e61346fa",
+    "response_time": 2.186495780944824,
+    "tags": []
+}

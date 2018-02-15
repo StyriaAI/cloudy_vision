@@ -1,0 +1,30 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.08670043945312,
+            "Name": "Appliance"
+        },
+        {
+            "Confidence": 98.08670043945312,
+            "Name": "Electrical Device"
+        },
+        {
+            "Confidence": 98.08670043945312,
+            "Name": "Washer"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "208",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 15 Feb 2018 12:14:21 GMT",
+            "x-amzn-requestid": "c0e9f2c7-1249-11e8-80a5-b3f845887b52"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "c0e9f2c7-1249-11e8-80a5-b3f845887b52",
+        "RetryAttempts": 0
+    },
+    "response_time": 0.5218656063079834
+}

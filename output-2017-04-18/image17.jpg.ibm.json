@@ -1,0 +1,88 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "ile cabinet",
+                            "score": 0.552,
+                            "type_hierarchy": "/furniture/ile cabinet"
+                        },
+                        {
+                            "class": "furniture",
+                            "score": 0.623
+                        },
+                        {
+                            "class": "jamb (of door or window)",
+                            "score": 0.523,
+                            "type_hierarchy": "/support/jamb (of door or window)"
+                        },
+                        {
+                            "class": "support",
+                            "score": 0.523
+                        },
+                        {
+                            "class": "miter joint",
+                            "score": 0.517,
+                            "type_hierarchy": "/joint/miter joint"
+                        },
+                        {
+                            "class": "joint",
+                            "score": 0.517
+                        },
+                        {
+                            "class": "casing of building",
+                            "score": 0.513,
+                            "type_hierarchy": "/supporting structure/framework/casing of building"
+                        },
+                        {
+                            "class": "framework",
+                            "score": 0.513
+                        },
+                        {
+                            "class": "supporting structure",
+                            "score": 0.513
+                        },
+                        {
+                            "class": "garage",
+                            "score": 0.513,
+                            "type_hierarchy": "/building/garage"
+                        },
+                        {
+                            "class": "building",
+                            "score": 0.514
+                        },
+                        {
+                            "class": "maildrop",
+                            "score": 0.51
+                        },
+                        {
+                            "class": "vertical file",
+                            "score": 0.5,
+                            "type_hierarchy": "/furniture/vertical file"
+                        },
+                        {
+                            "class": "electrical connector",
+                            "score": 0.6
+                        },
+                        {
+                            "class": "charcoal color",
+                            "score": 0.867
+                        },
+                        {
+                            "class": "sage green color",
+                            "score": 0.843
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/image17.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.8994631767272949
+}

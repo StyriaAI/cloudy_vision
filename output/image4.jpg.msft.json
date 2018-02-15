@@ -1,0 +1,88 @@
+{
+    "adult": {
+        "adultScore": 0.016912421211600304,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.014376864768564701
+    },
+    "categories": [
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "building_doorwindows",
+            "score": 0.49609375
+        },
+        {
+            "name": "others_",
+            "score": 0.3515625
+        }
+    ],
+    "color": {
+        "accentColor": "336598",
+        "dominantColorBackground": "Brown",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Brown",
+            "Black"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9023252310492671,
+                "text": "a close up of a cell phone"
+            }
+        ],
+        "tags": [
+            "cellphone",
+            "table",
+            "electronics",
+            "indoor",
+            "phone",
+            "sitting",
+            "wooden",
+            "small",
+            "old",
+            "monitor",
+            "top",
+            "different",
+            "black",
+            "holding",
+            "player",
+            "standing",
+            "laying"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 192,
+        "width": 256
+    },
+    "requestId": "1c1a8b75-4dc5-4e17-a6f1-ee81064abaff",
+    "response_time": 1.7971556186676025,
+    "tags": [
+        {
+            "confidence": 0.9857258796691895,
+            "name": "cellphone"
+        },
+        {
+            "confidence": 0.9627053141593933,
+            "name": "electronics"
+        },
+        {
+            "confidence": 0.9470070004463196,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.9172374606132507,
+            "name": "phone"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "rock hyrax (hoofed mammal)",
+                            "score": 0.547,
+                            "type_hierarchy": "/animal/mammal/rock hyrax (hoofed mammal)"
+                        },
+                        {
+                            "class": "mammal",
+                            "score": 0.895
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.897
+                        },
+                        {
+                            "class": "hyrax (hoofed mammal)",
+                            "score": 0.524,
+                            "type_hierarchy": "/animal/mammal/hyrax (hoofed mammal)"
+                        },
+                        {
+                            "class": "Pallas's cat",
+                            "score": 0.5,
+                            "type_hierarchy": "/animal/mammal/carnivore/feline/cat/wildcat/Pallas's cat"
+                        },
+                        {
+                            "class": "wildcat",
+                            "score": 0.501
+                        },
+                        {
+                            "class": "cat",
+                            "score": 0.582
+                        },
+                        {
+                            "class": "feline",
+                            "score": 0.589
+                        },
+                        {
+                            "class": "carnivore",
+                            "score": 0.601
+                        },
+                        {
+                            "class": "ash grey color",
+                            "score": 0.741
+                        },
+                        {
+                            "class": "gray color",
+                            "score": 0.53
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/image25.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.6539971828460693
+}

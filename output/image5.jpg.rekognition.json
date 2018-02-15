@@ -1,0 +1,34 @@
+{
+    "Labels": [
+        {
+            "Confidence": 71.37249755859375,
+            "Name": "Alloy Wheel"
+        },
+        {
+            "Confidence": 71.37249755859375,
+            "Name": "Machine"
+        },
+        {
+            "Confidence": 71.37249755859375,
+            "Name": "Spoke"
+        },
+        {
+            "Confidence": 71.37249755859375,
+            "Name": "Wheel"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "247",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 15 Feb 2018 12:20:00 GMT",
+            "x-amzn-requestid": "8b2ef411-124a-11e8-a755-fd67b06bf6e1"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "8b2ef411-124a-11e8-a755-fd67b06bf6e1",
+        "RetryAttempts": 0
+    },
+    "response_time": 0.5007040500640869
+}

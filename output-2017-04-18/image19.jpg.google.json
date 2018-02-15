@@ -1,0 +1,76 @@
+{
+    "response_time": 1.3018362522125244,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "horse",
+                    "mid": "/m/03k3r",
+                    "score": 0.9854981,
+                    "topicality": 0.9854981
+                },
+                {
+                    "description": "horse like mammal",
+                    "mid": "/m/02s3y",
+                    "score": 0.89939976,
+                    "topicality": 0.89939976
+                },
+                {
+                    "description": "fauna",
+                    "mid": "/m/035qhg",
+                    "score": 0.8904743,
+                    "topicality": 0.8904743
+                },
+                {
+                    "description": "mare",
+                    "mid": "/m/0c23pz",
+                    "score": 0.8547623,
+                    "topicality": 0.8547623
+                },
+                {
+                    "description": "mustang horse",
+                    "mid": "/m/02_fkk",
+                    "score": 0.847933,
+                    "topicality": 0.847933
+                },
+                {
+                    "description": "mane",
+                    "mid": "/m/0fy9p2",
+                    "score": 0.82202256,
+                    "topicality": 0.82202256
+                },
+                {
+                    "description": "stallion",
+                    "mid": "/m/0c0ygc",
+                    "score": 0.8213855,
+                    "topicality": 0.8213855
+                },
+                {
+                    "description": "livestock",
+                    "mid": "/m/0ch8v",
+                    "score": 0.7025318,
+                    "topicality": 0.7025318
+                },
+                {
+                    "description": "colt",
+                    "mid": "/m/08hvz4",
+                    "score": 0.7025014,
+                    "topicality": 0.7025014
+                },
+                {
+                    "description": "pack animal",
+                    "mid": "/m/0464z4",
+                    "score": 0.69139534,
+                    "topicality": 0.69139534
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "UNLIKELY",
+                "spoof": "UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

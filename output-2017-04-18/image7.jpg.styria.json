@@ -1,0 +1,19 @@
+{
+    "data": {
+        "categories": [
+            {
+                "id": 12029,
+                "name": "/Cars and Motorbikes/Spare parts and equipment/Spare car parts"
+            },
+            {
+                "id": 7,
+                "name": "/Cars and Motorbikes/Personal car/Used cars"
+            },
+            {
+                "id": 13506,
+                "name": "/Cars and Motorbikes/Crashed car"
+            }
+        ]
+    },
+    "response_time": 0.3303835391998291
+}

@@ -1,0 +1,19 @@
+{
+    "data": {
+        "categories": [
+            {
+                "id": 12202,
+                "name": "/Fashion / Apparel/Bags and wallets/School bag"
+            },
+            {
+                "id": 12201,
+                "name": "/Fashion / Apparel/Bags and wallets/Sports Bag"
+            },
+            {
+                "id": 12203,
+                "name": "/Fashion / Apparel/Bags and wallets/Travel bag or suitcase"
+            }
+        ]
+    },
+    "response_time": 0.0921483039855957
+}

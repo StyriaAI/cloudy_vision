@@ -1,0 +1,30 @@
+{
+    "Labels": [
+        {
+            "Confidence": 72.99617767333984,
+            "Name": "Den"
+        },
+        {
+            "Confidence": 72.99617767333984,
+            "Name": "Dog House"
+        },
+        {
+            "Confidence": 72.99617767333984,
+            "Name": "Kennel"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "194",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 15 Feb 2018 12:15:50 GMT",
+            "x-amzn-requestid": "f661b101-1249-11e8-81d6-0926f85cb4d6"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "f661b101-1249-11e8-81d6-0926f85cb4d6",
+        "RetryAttempts": 0
+    },
+    "response_time": 0.42873263359069824
+}

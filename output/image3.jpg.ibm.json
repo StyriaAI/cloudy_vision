@@ -1,0 +1,52 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "running shoe",
+                            "score": 0.875,
+                            "type_hierarchy": "/footwear/shoe/running shoe"
+                        },
+                        {
+                            "class": "shoe",
+                            "score": 0.939
+                        },
+                        {
+                            "class": "footwear",
+                            "score": 0.941
+                        },
+                        {
+                            "class": "spike",
+                            "score": 0.544
+                        },
+                        {
+                            "class": "talaria (shoes)",
+                            "score": 0.5,
+                            "type_hierarchy": "/footwear/shoe/sandal/talaria (shoes)"
+                        },
+                        {
+                            "class": "sandal",
+                            "score": 0.504
+                        },
+                        {
+                            "class": "sports equipment",
+                            "score": 0.8
+                        },
+                        {
+                            "class": "purplish blue color",
+                            "score": 0.995
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/image3.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.78407883644104
+}

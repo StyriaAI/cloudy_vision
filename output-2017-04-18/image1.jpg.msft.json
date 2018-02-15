@@ -1,0 +1,76 @@
+{
+    "adult": {
+        "adultScore": 0.009959102608263493,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.012308824807405472
+    },
+    "categories": [
+        {
+            "name": "plant_flower",
+            "score": 0.9453125
+        }
+    ],
+    "color": {
+        "accentColor": "B0241B",
+        "dominantColorBackground": "Green",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "Green",
+            "Red"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.6915491476701819,
+                "text": "a group of fruit sitting on a branch"
+            }
+        ],
+        "tags": [
+            "grass",
+            "outdoor",
+            "fruit",
+            "sitting",
+            "apple",
+            "top",
+            "green",
+            "food",
+            "red",
+            "table",
+            "bird",
+            "field",
+            "branch",
+            "group",
+            "laying"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 143,
+        "width": 256
+    },
+    "requestId": "61945df1-4538-41d0-b70f-81ed48c4951b",
+    "response_time": 1.9630086421966553,
+    "tags": [
+        {
+            "confidence": 0.8731757402420044,
+            "name": "outdoor"
+        },
+        {
+            "confidence": 0.8213616013526917,
+            "hint": "food",
+            "name": "fruit"
+        },
+        {
+            "confidence": 0.7214546799659729,
+            "name": "plant"
+        }
+    ]
+}

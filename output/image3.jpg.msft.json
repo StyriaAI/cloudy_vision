@@ -1,0 +1,54 @@
+{
+    "adult": {
+        "adultScore": 0.04306454956531525,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.03504951670765877
+    },
+    "categories": [
+        {
+            "name": "abstract_",
+            "score": 0.00390625
+        },
+        {
+            "name": "others_",
+            "score": 0.05859375
+        }
+    ],
+    "color": {
+        "accentColor": "1988B2",
+        "dominantColorBackground": "Brown",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.4304793290262547,
+                "text": "a close up of a device"
+            }
+        ],
+        "tags": []
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 192,
+        "width": 256
+    },
+    "requestId": "9985a06c-af39-46fa-a8f5-c34ac07a84b4",
+    "response_time": 1.4611701965332031,
+    "tags": [
+        {
+            "confidence": 0.4328654706478119,
+            "name": "footwear"
+        }
+    ]
+}

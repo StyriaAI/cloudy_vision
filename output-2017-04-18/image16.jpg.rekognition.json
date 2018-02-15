@@ -1,0 +1,82 @@
+{
+    "Labels": [
+        {
+            "Confidence": 81.77534484863281,
+            "Name": "Boat"
+        },
+        {
+            "Confidence": 81.77534484863281,
+            "Name": "Canoe"
+        },
+        {
+            "Confidence": 81.77534484863281,
+            "Name": "Kayak"
+        },
+        {
+            "Confidence": 81.77534484863281,
+            "Name": "Rowboat"
+        },
+        {
+            "Confidence": 81.77534484863281,
+            "Name": "Transportation"
+        },
+        {
+            "Confidence": 81.77534484863281,
+            "Name": "Vessel"
+        },
+        {
+            "Confidence": 81.77534484863281,
+            "Name": "Watercraft"
+        },
+        {
+            "Confidence": 52.08678436279297,
+            "Name": "Dock"
+        },
+        {
+            "Confidence": 52.08678436279297,
+            "Name": "Pier"
+        },
+        {
+            "Confidence": 51.3316650390625,
+            "Name": "Harbor"
+        },
+        {
+            "Confidence": 51.3316650390625,
+            "Name": "Port"
+        },
+        {
+            "Confidence": 51.3316650390625,
+            "Name": "Waterfront"
+        },
+        {
+            "Confidence": 50.80339431762695,
+            "Name": "Child"
+        },
+        {
+            "Confidence": 50.80339431762695,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 50.80339431762695,
+            "Name": "Kid"
+        },
+        {
+            "Confidence": 50.80339431762695,
+            "Name": "Person"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "830",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 15 Feb 2018 11:50:04 GMT",
+            "x-amzn-requestid": "5c2a0b2e-1246-11e8-93b2-c13acf1cc6ab"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "5c2a0b2e-1246-11e8-93b2-c13acf1cc6ab",
+        "RetryAttempts": 0
+    },
+    "response_time": 0.9167189598083496
+}

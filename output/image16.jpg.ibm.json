@@ -1,0 +1,61 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "kayak",
+                            "score": 0.771,
+                            "type_hierarchy": "/vehicle/craft/watercraft/boat/small boat/kayak"
+                        },
+                        {
+                            "class": "small boat",
+                            "score": 0.856
+                        },
+                        {
+                            "class": "boat",
+                            "score": 0.86
+                        },
+                        {
+                            "class": "watercraft",
+                            "score": 0.861
+                        },
+                        {
+                            "class": "craft",
+                            "score": 0.875
+                        },
+                        {
+                            "class": "vehicle",
+                            "score": 0.875
+                        },
+                        {
+                            "class": "Kayaking",
+                            "score": 0.535,
+                            "type_hierarchy": "/sport/Kayaking"
+                        },
+                        {
+                            "class": "sport",
+                            "score": 0.535
+                        },
+                        {
+                            "class": "canoe",
+                            "score": 0.5,
+                            "type_hierarchy": "/vehicle/craft/watercraft/boat/small boat/canoe"
+                        },
+                        {
+                            "class": "sea green color",
+                            "score": 0.89
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/image16.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.8699698448181152
+}

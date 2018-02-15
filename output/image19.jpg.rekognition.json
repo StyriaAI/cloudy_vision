@@ -1,0 +1,38 @@
+{
+    "Labels": [
+        {
+            "Confidence": 91.03206634521484,
+            "Name": "Animal"
+        },
+        {
+            "Confidence": 91.03206634521484,
+            "Name": "Horse"
+        },
+        {
+            "Confidence": 91.03206634521484,
+            "Name": "Mammal"
+        },
+        {
+            "Confidence": 84.38040161132812,
+            "Name": "Colt Horse"
+        },
+        {
+            "Confidence": 77.48626708984375,
+            "Name": "Foal"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "293",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 15 Feb 2018 12:20:36 GMT",
+            "x-amzn-requestid": "a0d53fd3-124a-11e8-99b6-d9d35c53cade"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "a0d53fd3-124a-11e8-99b6-d9d35c53cade",
+        "RetryAttempts": 0
+    },
+    "response_time": 0.43264317512512207
+}

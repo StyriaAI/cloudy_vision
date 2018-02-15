@@ -1,0 +1,96 @@
+{
+    "response_time": 0.7527227401733398,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "communication device",
+                    "mid": "/m/0glmwd6",
+                    "score": 0.8818148,
+                    "topicality": 0.8818148
+                },
+                {
+                    "description": "mobile phone",
+                    "mid": "/m/050k8",
+                    "score": 0.85334843,
+                    "topicality": 0.85334843
+                },
+                {
+                    "description": "electronic device",
+                    "mid": "/m/0bs7_0t",
+                    "score": 0.75807166,
+                    "topicality": 0.75807166
+                },
+                {
+                    "description": "electronics",
+                    "mid": "/m/02mrp",
+                    "score": 0.74303037,
+                    "topicality": 0.74303037
+                },
+                {
+                    "description": "gadget",
+                    "mid": "/m/02mf1n",
+                    "score": 0.74167055,
+                    "topicality": 0.74167055
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/01jwgf",
+                    "score": 0.6917913,
+                    "topicality": 0.6917913
+                },
+                {
+                    "description": "portable communications device",
+                    "mid": "/m/020fsy",
+                    "score": 0.64351857,
+                    "topicality": 0.64351857
+                },
+                {
+                    "description": "smartphone",
+                    "mid": "/m/0169zh",
+                    "score": 0.6382545,
+                    "topicality": 0.6382545
+                },
+                {
+                    "description": "telephone",
+                    "mid": "/m/07cx4",
+                    "score": 0.5121402,
+                    "topicality": 0.5121402
+                }
+            ],
+            "logoAnnotations": [
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 175,
+                                "y": 96
+                            },
+                            {
+                                "x": 195,
+                                "y": 96
+                            },
+                            {
+                                "x": 195,
+                                "y": 111
+                            },
+                            {
+                                "x": 175,
+                                "y": 111
+                            }
+                        ]
+                    },
+                    "description": "Samsung Galaxy S6",
+                    "score": 0.1536972
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

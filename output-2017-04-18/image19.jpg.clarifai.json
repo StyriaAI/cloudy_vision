@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2018-02-15T11:50:41.012718328Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_N6BnC4br",
+                        "name": "mammal",
+                        "value": 0.99244624
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_SzsXMB1w",
+                        "name": "animal",
+                        "value": 0.99163926
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_tBcWlsCp",
+                        "name": "nature",
+                        "value": 0.9833381
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_P9f3vfGr",
+                        "name": "cavalry",
+                        "value": 0.9760726
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_fbqvMwRm",
+                        "name": "wildlife",
+                        "value": 0.97125864
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_HDqK5lNg",
+                        "name": "wild",
+                        "value": 0.9696244
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_6k2Wc1Mc",
+                        "name": "farm",
+                        "value": 0.9593357
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_R6dzMxKV",
+                        "name": "rural",
+                        "value": 0.9484091
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_mzK38Fr0",
+                        "name": "pasture",
+                        "value": 0.9349203
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_mp9KG5QH",
+                        "name": "grass",
+                        "value": 0.9326884
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_SVshtN54",
+                        "name": "one",
+                        "value": 0.91276413
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_W1zlPRs1",
+                        "name": "field",
+                        "value": 0.91164404
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_TJ9wFfK5",
+                        "name": "portrait",
+                        "value": 0.904858
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_786Zr311",
+                        "name": "no person",
+                        "value": 0.90400136
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_5sqbqWHm",
+                        "name": "domestic",
+                        "value": 0.90157354
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Zmhsv0Ch",
+                        "name": "outdoors",
+                        "value": 0.9014075
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_vndpqmsl",
+                        "name": "agriculture",
+                        "value": 0.8995751
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_9k62PDS6",
+                        "name": "hayfield",
+                        "value": 0.89194506
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_ZbpVMB3k",
+                        "name": "mane",
+                        "value": 0.89181566
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Hg55M3Cz",
+                        "name": "livestock",
+                        "value": 0.8825635
+                    }
+                ]
+            },
+            "id": "d7bf185cb22342138f3a2bf5666baf69",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "true",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img2/prod/small/aa95525549c34247952dbd3c29b06244/ee71b0cb92d1497f86a126466db7abf3"
+                    }
+                },
+                "id": "ed1309bf458e46cfbcdb268addb1a102"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 2.4610605239868164,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

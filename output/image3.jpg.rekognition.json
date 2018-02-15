@@ -1,0 +1,34 @@
+{
+    "Labels": [
+        {
+            "Confidence": 97.66925811767578,
+            "Name": "Clothing"
+        },
+        {
+            "Confidence": 97.66925811767578,
+            "Name": "Footwear"
+        },
+        {
+            "Confidence": 97.66925811767578,
+            "Name": "Running Shoe"
+        },
+        {
+            "Confidence": 97.66925811767578,
+            "Name": "Shoe"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "251",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 15 Feb 2018 12:19:26 GMT",
+            "x-amzn-requestid": "76a1dfbf-124a-11e8-83bd-6f65004e4033"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "76a1dfbf-124a-11e8-83bd-6f65004e4033",
+        "RetryAttempts": 0
+    },
+    "response_time": 0.3723013401031494
+}

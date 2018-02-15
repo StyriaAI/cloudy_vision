@@ -1,0 +1,85 @@
+{
+    "adult": {
+        "adultScore": 0.010469724424183369,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.016035374253988266
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.1015625
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.0078125
+        }
+    ],
+    "color": {
+        "accentColor": "A02B37",
+        "dominantColorBackground": "Black",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Black",
+            "Brown"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7837338981168187,
+                "text": "a close up of a machine"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "table",
+            "shelf",
+            "small",
+            "red",
+            "room",
+            "sitting",
+            "desk",
+            "white",
+            "kitchen",
+            "top",
+            "holding",
+            "machine",
+            "large",
+            "man",
+            "standing",
+            "oven",
+            "sink"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 192,
+        "width": 256
+    },
+    "requestId": "0dfa2c57-8849-4684-b765-7a04a87bd23c",
+    "response_time": 1.898000955581665,
+    "tags": [
+        {
+            "confidence": 0.9686587452888489,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.5487203001976013,
+            "name": "shelf"
+        },
+        {
+            "confidence": 0.3850642740726471,
+            "name": "device"
+        }
+    ]
+}

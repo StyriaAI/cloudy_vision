@@ -1,0 +1,62 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "kitbag",
+                            "score": 0.741,
+                            "type_hierarchy": "/bag/kitbag"
+                        },
+                        {
+                            "class": "bag",
+                            "score": 0.874
+                        },
+                        {
+                            "class": "backpack",
+                            "score": 0.7,
+                            "type_hierarchy": "/bag/backpack"
+                        },
+                        {
+                            "class": "bagpack",
+                            "score": 0.524
+                        },
+                        {
+                            "class": "hand luggage",
+                            "score": 0.517,
+                            "type_hierarchy": "/luggage/hand luggage"
+                        },
+                        {
+                            "class": "luggage",
+                            "score": 0.661
+                        },
+                        {
+                            "class": "traveling bag",
+                            "score": 0.5,
+                            "type_hierarchy": "/luggage/traveling bag"
+                        },
+                        {
+                            "class": "fabric",
+                            "score": 0.777
+                        },
+                        {
+                            "class": "charcoal color",
+                            "score": 0.83
+                        },
+                        {
+                            "class": "claret red color",
+                            "score": 0.791
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/image15.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.7794783115386963
+}

@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2018-02-15T12:20:15.913122921Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_gRZHdRD7",
+                        "name": "wheel",
+                        "value": 0.99767923
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_TsSR8Rx5",
+                        "name": "tire",
+                        "value": 0.9975034
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_LplXDDZ2",
+                        "name": "car",
+                        "value": 0.9876009
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_hpPS1b6S",
+                        "name": "rim",
+                        "value": 0.9863787
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_p6X1HlmH",
+                        "name": "pneumatic",
+                        "value": 0.9860833
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_786Zr311",
+                        "name": "no person",
+                        "value": 0.95967686
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_WTrlNkqM",
+                        "name": "vehicle",
+                        "value": 0.9479116
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_QStT0Nm0",
+                        "name": "spare",
+                        "value": 0.9474384
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Zmhsv0Ch",
+                        "name": "outdoors",
+                        "value": 0.94047403
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_qTdJLXJH",
+                        "name": "adhesive friction",
+                        "value": 0.9236526
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_W40Xj7XD",
+                        "name": "tread",
+                        "value": 0.9230694
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Xxjc3MhT",
+                        "name": "transportation system",
+                        "value": 0.91840744
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Dw4n3Xh2",
+                        "name": "rubberize",
+                        "value": 0.9118501
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_kmPLnx0B",
+                        "name": "rubber (material)",
+                        "value": 0.9096778
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_NXlW8L7r",
+                        "name": "glazed",
+                        "value": 0.90628076
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_hsG8bzf6",
+                        "name": "drive",
+                        "value": 0.90158373
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_K2d5Ps8r",
+                        "name": "automotive",
+                        "value": 0.8966086
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_jmQRhNDh",
+                        "name": "chrome",
+                        "value": 0.8861952
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_lHLfL3Xl",
+                        "name": "maintenance",
+                        "value": 0.87903476
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_xfHMsRbs",
+                        "name": "garage",
+                        "value": 0.8636161
+                    }
+                ]
+            },
+            "id": "ff9a23d47fc6472f8f4c5be444da8ade",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "true",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img2/prod/small/aa95525549c34247952dbd3c29b06244/cb818478d6ea4d74ae057965f606ea93"
+                    }
+                },
+                "id": "c816ecf847d7454d9ad97bde8b965730"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 1.7052876949310303,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

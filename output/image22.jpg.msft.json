@@ -1,0 +1,54 @@
+{
+    "adult": {
+        "adultScore": 0.15218156576156616,
+        "isAdultContent": false,
+        "isRacyContent": true,
+        "racyScore": 0.3664054274559021
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.015625
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.00390625
+        },
+        {
+            "name": "people_",
+            "score": 0.375
+        }
+    ],
+    "color": {
+        "accentColor": "8D6D3E",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Pink",
+        "dominantColors": [],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.5752211574664939,
+                "text": "a close up of a piece of paper"
+            }
+        ],
+        "tags": []
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 256,
+        "width": 192
+    },
+    "requestId": "a8cbea5c-cafa-4834-9422-665a464d8a75",
+    "response_time": 2.149721145629883,
+    "tags": []
+}

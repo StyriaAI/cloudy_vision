@@ -1,0 +1,104 @@
+{
+    "adult": {
+        "adultScore": 0.10677485167980194,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.09742274880409241
+    },
+    "categories": [
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.1640625
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_waterside",
+            "score": 0.41796875
+        }
+    ],
+    "color": {
+        "accentColor": "9D2E39",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "White"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9391668729274549,
+                "text": "a group of people in a boat on a body of water"
+            }
+        ],
+        "tags": [
+            "water",
+            "outdoor",
+            "boat",
+            "man",
+            "people",
+            "small",
+            "body",
+            "standing",
+            "riding",
+            "ocean",
+            "top",
+            "large",
+            "group",
+            "little",
+            "lake",
+            "young",
+            "floating",
+            "surfing",
+            "skiing",
+            "river",
+            "woman",
+            "dock",
+            "dog",
+            "red",
+            "beach",
+            "board"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 192,
+        "width": 256
+    },
+    "requestId": "a9af4f1f-7a79-4914-aa06-6b9149ef1c82",
+    "response_time": 1.9990708827972412,
+    "tags": [
+        {
+            "confidence": 0.9998713731765747,
+            "name": "water"
+        },
+        {
+            "confidence": 0.9988492727279663,
+            "name": "sky"
+        },
+        {
+            "confidence": 0.987893283367157,
+            "name": "outdoor"
+        },
+        {
+            "confidence": 0.9785834550857544,
+            "name": "boat"
+        },
+        {
+            "confidence": 0.21700087189674377,
+            "name": "shore"
+        }
+    ]
+}

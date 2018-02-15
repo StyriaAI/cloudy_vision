@@ -1,0 +1,76 @@
+{
+    "response_time": 0.7638206481933594,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "water transportation",
+                    "mid": "/m/08rrcl",
+                    "score": 0.923686,
+                    "topicality": 0.923686
+                },
+                {
+                    "description": "waterway",
+                    "mid": "/m/017m8l",
+                    "score": 0.9145017,
+                    "topicality": 0.9145017
+                },
+                {
+                    "description": "boat",
+                    "mid": "/m/019jd",
+                    "score": 0.9114237,
+                    "topicality": 0.9114237
+                },
+                {
+                    "description": "boating",
+                    "mid": "/m/03m4wn",
+                    "score": 0.8326317,
+                    "topicality": 0.8326317
+                },
+                {
+                    "description": "kayak",
+                    "mid": "/m/04fdw",
+                    "score": 0.8039871,
+                    "topicality": 0.8039871
+                },
+                {
+                    "description": "boats and boating equipment and supplies",
+                    "mid": "/m/0bp3j53",
+                    "score": 0.78594387,
+                    "topicality": 0.78594387
+                },
+                {
+                    "description": "canoeing",
+                    "mid": "/m/01psvn",
+                    "score": 0.783327,
+                    "topicality": 0.783327
+                },
+                {
+                    "description": "sea kayak",
+                    "mid": "/m/01rw_4",
+                    "score": 0.7428441,
+                    "topicality": 0.7428441
+                },
+                {
+                    "description": "paddle",
+                    "mid": "/m/014y4n",
+                    "score": 0.7257186,
+                    "topicality": 0.7257186
+                },
+                {
+                    "description": "kayaking",
+                    "mid": "/m/025sylx",
+                    "score": 0.69613665,
+                    "topicality": 0.69613665
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "UNLIKELY"
+            }
+        }
+    ]
+}

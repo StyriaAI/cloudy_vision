@@ -1,0 +1,76 @@
+{
+    "response_time": 0.9742121696472168,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "electronic instrument",
+                    "mid": "/m/0121tl",
+                    "score": 0.8815941,
+                    "topicality": 0.8815941
+                },
+                {
+                    "description": "musical instrument",
+                    "mid": "/m/04szw",
+                    "score": 0.8464765,
+                    "topicality": 0.8464765
+                },
+                {
+                    "description": "sound mixer",
+                    "mid": "/m/0ch6mp2",
+                    "score": 0.80902904,
+                    "topicality": 0.80902904
+                },
+                {
+                    "description": "musical instrument accessory",
+                    "mid": "/m/0h8npf5",
+                    "score": 0.7589112,
+                    "topicality": 0.7589112
+                },
+                {
+                    "description": "mixing console",
+                    "mid": "/m/01bfwv",
+                    "score": 0.73026633,
+                    "topicality": 0.73026633
+                },
+                {
+                    "description": "electronic musical instrument",
+                    "mid": "/m/02qjv",
+                    "score": 0.7069952,
+                    "topicality": 0.7069952
+                },
+                {
+                    "description": "electronics",
+                    "mid": "/m/02mrp",
+                    "score": 0.6990219,
+                    "topicality": 0.6990219
+                },
+                {
+                    "description": "audio equipment",
+                    "mid": "/m/01yttv",
+                    "score": 0.6987687,
+                    "topicality": 0.6987687
+                },
+                {
+                    "description": "technology",
+                    "mid": "/m/07c1v",
+                    "score": 0.61396074,
+                    "topicality": 0.61396074
+                },
+                {
+                    "description": "synthesizer",
+                    "mid": "/m/0l14qv",
+                    "score": 0.5924477,
+                    "topicality": 0.5924477
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

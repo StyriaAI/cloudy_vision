@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2018-02-15T12:19:41.021232819Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_gmhgfKKh",
+                        "name": "shoe",
+                        "value": 0.9938743
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_dngMN46t",
+                        "name": "fashion",
+                        "value": 0.99371326
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_6CGxp88s",
+                        "name": "footwear",
+                        "value": 0.9883479
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_tCxWWQ3t",
+                        "name": "foot",
+                        "value": 0.9849366
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_1zswlGVq",
+                        "name": "couple together",
+                        "value": 0.97797096
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_tdzjP35h",
+                        "name": "leather",
+                        "value": 0.9768378
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_kRSBxV6q",
+                        "name": "casual",
+                        "value": 0.97376823
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_86sS08Pw",
+                        "name": "wear",
+                        "value": 0.9688636
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_LM64MDHs",
+                        "name": "shining",
+                        "value": 0.9517912
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_wZCn67qV",
+                        "name": "style",
+                        "value": 0.9449252
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_lksqN1MW",
+                        "name": "lace tie",
+                        "value": 0.94102085
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_7Xg5SQRW",
+                        "name": "luxury",
+                        "value": 0.93162704
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_0JbWBDPd",
+                        "name": "color",
+                        "value": 0.9301933
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_j6rltf8j",
+                        "name": "elegant",
+                        "value": 0.9273641
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_HT0QQjJB",
+                        "name": "sandal",
+                        "value": 0.92118067
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Khwz536F",
+                        "name": "sole",
+                        "value": 0.91957015
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_pjLjFTgp",
+                        "name": "shoelace",
+                        "value": 0.90936154
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Crr4Pxjt",
+                        "name": "accessory",
+                        "value": 0.9070174
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_9MHSc8T5",
+                        "name": "classic",
+                        "value": 0.9041976
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_cMfj16kJ",
+                        "name": "design",
+                        "value": 0.89257216
+                    }
+                ]
+            },
+            "id": "a372127b853e41ea8a6e84536ca5eef1",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "true",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img2/prod/small/aa95525549c34247952dbd3c29b06244/a981c94a9b4741309efe250e236db6eb"
+                    }
+                },
+                "id": "a998e28f156c476b88fe8b1d088c0e63"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 1.6183488368988037,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

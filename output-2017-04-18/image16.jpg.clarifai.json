@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2018-02-15T11:50:20.862361890Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_BlL0wSQh",
+                        "name": "water",
+                        "value": 0.99557304
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_pxxQ5Rt6",
+                        "name": "watercraft",
+                        "value": 0.9918175
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_PchWZPFC",
+                        "name": "boat",
+                        "value": 0.98124254
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Xxjc3MhT",
+                        "name": "transportation system",
+                        "value": 0.9755015
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_VRmbGVWh",
+                        "name": "travel",
+                        "value": 0.97186255
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_7bRKqWjp",
+                        "name": "sea",
+                        "value": 0.9671263
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_6XJm2Pt8",
+                        "name": "ship",
+                        "value": 0.95115244
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Zmhsv0Ch",
+                        "name": "outdoors",
+                        "value": 0.93849826
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_WTrlNkqM",
+                        "name": "vehicle",
+                        "value": 0.93366206
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_fZxMPT5l",
+                        "name": "river",
+                        "value": 0.93269765
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Xj9XqDRz",
+                        "name": "harbor",
+                        "value": 0.9269091
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_8Qw6PFLZ",
+                        "name": "recreation",
+                        "value": 0.91824174
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_786Zr311",
+                        "name": "no person",
+                        "value": 0.9079305
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_FsT0Zqdb",
+                        "name": "summer",
+                        "value": 0.9058889
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_V1FjkFXr",
+                        "name": "leisure",
+                        "value": 0.9010644
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_xZgtf58b",
+                        "name": "ocean",
+                        "value": 0.8936773
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_jtV15503",
+                        "name": "motorboat",
+                        "value": 0.88298106
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_RqGMbSMJ",
+                        "name": "canoe",
+                        "value": 0.8767817
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_jWFxtpH1",
+                        "name": "seashore",
+                        "value": 0.8676895
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_nfd9DXhN",
+                        "name": "tourism",
+                        "value": 0.8639088
+                    }
+                ]
+            },
+            "id": "f9d5268aa32c4c918629df2734254f14",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "true",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img2/prod/small/aa95525549c34247952dbd3c29b06244/cf436feb65784ecb8871966a579aff8e"
+                    }
+                },
+                "id": "fd3259b0d05d4813a30c1a03ce306a5a"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 2.361813545227051,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

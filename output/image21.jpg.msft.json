@@ -1,0 +1,75 @@
+{
+    "adult": {
+        "adultScore": 0.01081286370754242,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.014593541622161865
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.0703125
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.01953125
+        }
+    ],
+    "color": {
+        "accentColor": "8D6C3E",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "Black"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.5593568718367837,
+                "text": "a close up of a computer keyboard"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "thing",
+            "sitting",
+            "computer",
+            "keyboard",
+            "top",
+            "desk",
+            "table",
+            "black",
+            "wooden",
+            "laptop",
+            "control",
+            "laying",
+            "mouse",
+            "remote",
+            "white"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 192,
+        "width": 256
+    },
+    "requestId": "40e6b0c7-d6d7-4028-b580-ed0406ac89ea",
+    "response_time": 1.6463439464569092,
+    "tags": [
+        {
+            "confidence": 0.9670066833496094,
+            "name": "indoor"
+        }
+    ]
+}

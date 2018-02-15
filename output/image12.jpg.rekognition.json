@@ -1,0 +1,70 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.6913070678711,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 98.69126892089844,
+            "Name": "People"
+        },
+        {
+            "Confidence": 98.6913070678711,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 72.72848510742188,
+            "Name": "Clothing"
+        },
+        {
+            "Confidence": 72.72848510742188,
+            "Name": "Vest"
+        },
+        {
+            "Confidence": 58.32041549682617,
+            "Name": "Long Sleeve"
+        },
+        {
+            "Confidence": 58.32041549682617,
+            "Name": "Sleeve"
+        },
+        {
+            "Confidence": 58.08266830444336,
+            "Name": "Dress"
+        },
+        {
+            "Confidence": 52.98778533935547,
+            "Name": "Jersey"
+        },
+        {
+            "Confidence": 52.98778533935547,
+            "Name": "Shirt"
+        },
+        {
+            "Confidence": 52.98778533935547,
+            "Name": "T-Shirt"
+        },
+        {
+            "Confidence": 51.065643310546875,
+            "Name": "Boutique"
+        },
+        {
+            "Confidence": 51.065643310546875,
+            "Name": "Shop"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "687",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 15 Feb 2018 12:14:57 GMT",
+            "x-amzn-requestid": "d66250d1-1249-11e8-9a5b-13d3d2e9be46"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "d66250d1-1249-11e8-9a5b-13d3d2e9be46",
+        "RetryAttempts": 0
+    },
+    "response_time": 0.5315699577331543
+}

@@ -1,0 +1,105 @@
+{
+    "adult": {
+        "adultScore": 0.014774108305573463,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.013994850218296051
+    },
+    "categories": [
+        {
+            "name": "abstract_",
+            "score": 0.00390625
+        },
+        {
+            "name": "others_",
+            "score": 0.38671875
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "3B231A",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "Grey",
+            "Brown",
+            "White"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.4601272577443469,
+                "text": "a chair sitting in front of a mirror"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "chair",
+            "sitting",
+            "table",
+            "kitchen",
+            "computer",
+            "small",
+            "room",
+            "laptop",
+            "black",
+            "tiled",
+            "top",
+            "desk",
+            "dog",
+            "white",
+            "sink",
+            "counter",
+            "living",
+            "furniture",
+            "mirror",
+            "standing",
+            "laying",
+            "cat",
+            "mouse",
+            "bedroom",
+            "oven",
+            "stove",
+            "bed",
+            "shower"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 256,
+        "width": 192
+    },
+    "requestId": "0379ee66-4b83-4388-b896-0219269679e2",
+    "response_time": 1.7350358963012695,
+    "tags": [
+        {
+            "confidence": 0.9977118968963623,
+            "name": "floor"
+        },
+        {
+            "confidence": 0.9949140548706055,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.9588737487792969,
+            "name": "wall"
+        },
+        {
+            "confidence": 0.19079242646694183,
+            "name": "tiled"
+        }
+    ]
+}

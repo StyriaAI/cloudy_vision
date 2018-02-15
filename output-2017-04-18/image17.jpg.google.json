@@ -1,0 +1,46 @@
+{
+    "response_time": 1.0322151184082031,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "property",
+                    "mid": "/m/05wrt",
+                    "score": 0.888265,
+                    "topicality": 0.888265
+                },
+                {
+                    "description": "door",
+                    "mid": "/m/02dgv",
+                    "score": 0.6161451,
+                    "topicality": 0.6161451
+                },
+                {
+                    "description": "facade",
+                    "mid": "/m/01x314",
+                    "score": 0.57972497,
+                    "topicality": 0.57972497
+                },
+                {
+                    "description": "window",
+                    "mid": "/m/0d4v4",
+                    "score": 0.5649513,
+                    "topicality": 0.5649513
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/01jwgf",
+                    "score": 0.52416646,
+                    "topicality": 0.52416646
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

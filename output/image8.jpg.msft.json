@@ -1,0 +1,64 @@
+{
+    "adult": {
+        "adultScore": 0.02222362719476223,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.018605642020702362
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.3984375
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "AABF0C",
+        "dominantColorBackground": "Yellow",
+        "dominantColorForeground": "Yellow",
+        "dominantColors": [
+            "Yellow"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.47579351538231807,
+                "text": "a close up of a phone"
+            }
+        ],
+        "tags": [
+            "sitting",
+            "phone"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 192,
+        "width": 256
+    },
+    "requestId": "6521c1cc-d6a2-45e2-8ef3-d2d83230ace6",
+    "response_time": 1.8851122856140137,
+    "tags": [
+        {
+            "confidence": 0.24615930020809174,
+            "name": "control panel"
+        },
+        {
+            "confidence": 0.1086483970284462,
+            "name": "projector"
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2018-02-15T12:17:54.622560045Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_786Zr311",
+                        "name": "no person",
+                        "value": 0.97801745
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_pCnxWJZh",
+                        "name": "contemporary",
+                        "value": 0.96958756
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_GzMCzJF9",
+                        "name": "chair",
+                        "value": 0.9678713
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Px1lQs1F",
+                        "name": "stool",
+                        "value": 0.9619179
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_zFnPQdgB",
+                        "name": "wood",
+                        "value": 0.95607674
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_xxnGcd42",
+                        "name": "seat",
+                        "value": 0.9476379
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_c9n7SB25",
+                        "name": "furniture",
+                        "value": 0.94258535
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Pf2b7clG",
+                        "name": "indoors",
+                        "value": 0.93976593
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_cMfj16kJ",
+                        "name": "design",
+                        "value": 0.931322
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_l2vWw8mr",
+                        "name": "empty",
+                        "value": 0.9308048
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_XNpR6lwb",
+                        "name": "inside",
+                        "value": 0.92208964
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_lbkj2ffx",
+                        "name": "wall",
+                        "value": 0.9204456
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_7Xg5SQRW",
+                        "name": "luxury",
+                        "value": 0.913051
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_4Qjv5PTH",
+                        "name": "modern",
+                        "value": 0.90985703
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_1p2zMmqb",
+                        "name": "retro",
+                        "value": 0.909848
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_GzNlpxwb",
+                        "name": "equipment",
+                        "value": 0.896008
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_j09mzT6j",
+                        "name": "family",
+                        "value": 0.8829554
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Lq00FggW",
+                        "name": "desktop",
+                        "value": 0.8787426
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Mh97GGhK",
+                        "name": "armchair",
+                        "value": 0.8741975
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_wZCn67qV",
+                        "name": "style",
+                        "value": 0.87174296
+                    }
+                ]
+            },
+            "id": "f5bfcbae095a4f0caeaa0c595a9bd1ad",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "true",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img2/prod/small/aa95525549c34247952dbd3c29b06244/efe528ce256a46219a13e5263f967b3c"
+                    }
+                },
+                "id": "d0dcb2c188994eff802a7dcbbf4bfee0"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 1.7546699047088623,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "response_time": 1.1550252437591553,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "car",
+                    "mid": "/m/0k4j",
+                    "score": 0.97963977,
+                    "topicality": 0.97963977
+                },
+                {
+                    "description": "vehicle",
+                    "mid": "/m/07yv9",
+                    "score": 0.9685596,
+                    "topicality": 0.9685596
+                },
+                {
+                    "description": "land vehicle",
+                    "mid": "/m/01prls",
+                    "score": 0.9600838,
+                    "topicality": 0.9600838
+                },
+                {
+                    "description": "motor vehicle",
+                    "mid": "/m/012f08",
+                    "score": 0.90939635,
+                    "topicality": 0.90939635
+                },
+                {
+                    "description": "family car",
+                    "mid": "/m/088l6h",
+                    "score": 0.87622285,
+                    "topicality": 0.87622285
+                },
+                {
+                    "description": "mode of transport",
+                    "mid": "/m/079bkr",
+                    "score": 0.87501806,
+                    "topicality": 0.87501806
+                },
+                {
+                    "description": "hatchback",
+                    "mid": "/m/01cmcs",
+                    "score": 0.83144325,
+                    "topicality": 0.83144325
+                },
+                {
+                    "description": "volkswagen",
+                    "mid": "/m/07ywl",
+                    "score": 0.7897599,
+                    "topicality": 0.7897599
+                },
+                {
+                    "description": "automotive exterior",
+                    "mid": "/m/0h8ls87",
+                    "score": 0.7580302,
+                    "topicality": 0.7580302
+                },
+                {
+                    "description": "vehicle registration plate",
+                    "mid": "/m/01jfm_",
+                    "score": 0.7067294,
+                    "topicality": 0.7067294
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "lathe",
+                            "score": 0.952,
+                            "type_hierarchy": "/machine/machine tool/shaping machine/lathe"
+                        },
+                        {
+                            "class": "shaping machine",
+                            "score": 0.952
+                        },
+                        {
+                            "class": "machine tool",
+                            "score": 0.955
+                        },
+                        {
+                            "class": "machine",
+                            "score": 0.955
+                        },
+                        {
+                            "class": "tailstock (of lathe)",
+                            "score": 0.5,
+                            "type_hierarchy": "/support/tailstock (of lathe)"
+                        },
+                        {
+                            "class": "support",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "dark red color",
+                            "score": 0.836
+                        },
+                        {
+                            "class": "ultramarine color",
+                            "score": 0.601
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/image9.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.8258655071258545
+}

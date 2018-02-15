@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2018-02-15T12:14:55.140661709Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_62K34TR4",
+                        "name": "technology",
+                        "value": 0.98942995
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_sQzkzjSk",
+                        "name": "speaker",
+                        "value": 0.9825357
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_GzNlpxwb",
+                        "name": "equipment",
+                        "value": 0.9696808
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_RkLqBL8X",
+                        "name": "stereo",
+                        "value": 0.9625097
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_0qS6nzzT",
+                        "name": "wireless",
+                        "value": 0.9612684
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_XjXrH3qf",
+                        "name": "electronics",
+                        "value": 0.9578959
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_6KkVGbdm",
+                        "name": "telephone",
+                        "value": 0.9528856
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_pPJbNBqf",
+                        "name": "connection",
+                        "value": 0.952695
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Knf4kjCC",
+                        "name": "audio",
+                        "value": 0.9317082
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Qbldzzv0",
+                        "name": "device",
+                        "value": 0.9141247
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_GsVVF4F0",
+                        "name": "receiver",
+                        "value": 0.9119992
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_xh4vNZQL",
+                        "name": "power",
+                        "value": 0.89733064
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_7w4WJMw5",
+                        "name": "sound",
+                        "value": 0.8957171
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_PpTcwbdQ",
+                        "name": "computer",
+                        "value": 0.89467716
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_4Qjv5PTH",
+                        "name": "modern",
+                        "value": 0.88423383
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_kCTh39XG",
+                        "name": "communication",
+                        "value": 0.87363577
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_M8sQ9ML9",
+                        "name": "display",
+                        "value": 0.86535144
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_ggQlMG6W",
+                        "name": "industry",
+                        "value": 0.8366677
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_2XB9GZqQ",
+                        "name": "obsolete",
+                        "value": 0.8346618
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_JbCBc2rB",
+                        "name": "television",
+                        "value": 0.8274558
+                    }
+                ]
+            },
+            "id": "cdfeb25dea9940e3b8ba0f9a1cf38eca",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "true",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img2/prod/small/aa95525549c34247952dbd3c29b06244/d581c347ce9b4021884777ba9a2b73ea"
+                    }
+                },
+                "id": "bf01ef9531f74f519af92813167af67c"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 1.7673380374908447,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

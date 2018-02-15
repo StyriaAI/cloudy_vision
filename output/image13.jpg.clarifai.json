@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2018-02-15T12:18:30.203006471Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_ggQlMG6W",
+                        "name": "industry",
+                        "value": 0.9931885
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_5ML04hm0",
+                        "name": "work",
+                        "value": 0.97593796
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_GzNlpxwb",
+                        "name": "equipment",
+                        "value": 0.9746278
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_pvxl1BTq",
+                        "name": "tool",
+                        "value": 0.9705833
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_wpWFjRfW",
+                        "name": "recycling",
+                        "value": 0.95845914
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_92z7j7Vc",
+                        "name": "machine",
+                        "value": 0.9547483
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_XdwTxJz3",
+                        "name": "steel",
+                        "value": 0.9539857
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_QPk3h1Zk",
+                        "name": "grinder",
+                        "value": 0.9523606
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_xh4vNZQL",
+                        "name": "power",
+                        "value": 0.9449128
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_hf5ZBGcK",
+                        "name": "production",
+                        "value": 0.9439187
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_JBNsMbR4",
+                        "name": "worker",
+                        "value": 0.9308928
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_jdqLsqcW",
+                        "name": "machinery",
+                        "value": 0.9281184
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_P2ktCFHk",
+                        "name": "plastic",
+                        "value": 0.9238666
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_8F4H4jkW",
+                        "name": "trash",
+                        "value": 0.9121052
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_cTv1BBXG",
+                        "name": "expression",
+                        "value": 0.8967538
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_cpHFMDTF",
+                        "name": "pollution",
+                        "value": 0.8904463
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_7k7NSWlT",
+                        "name": "soil",
+                        "value": 0.8902656
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_vndpqmsl",
+                        "name": "agriculture",
+                        "value": 0.8901066
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_zFnPQdgB",
+                        "name": "wood",
+                        "value": 0.89004606
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Jcx30q3h",
+                        "name": "garbage",
+                        "value": 0.88988477
+                    }
+                ]
+            },
+            "id": "b23e08e36878459e87aa89d3708017dc",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "true",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img2/prod/small/aa95525549c34247952dbd3c29b06244/a6617b6990c34b628718bd48ba427e0d"
+                    }
+                },
+                "id": "a8f362a8dc04403faac9bd101f20242c"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 2.5086324214935303,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

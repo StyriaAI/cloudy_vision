@@ -1,0 +1,13 @@
+{
+    "google" : "AIzaSyDIxELRB0pO12dCprV54XdGitS_khsPeNk",
+    "microsoft" : "ba875253ccba4620b9ebfedc2bad60e8",
+    "ibm" : "40b86396ac19934c58e528c0e1287d532ab1e60e",
+    "cloudsight" : {
+        "api_key" : "8xfJY-wg4TQZ0Kl1nvh9rQ",
+        "api_secret" : "r5UFauct7tE1BPzlcVHleg"
+    },
+    "clarifai": {
+        "api_key": "e7c7a83de6ca49ffae36f44b5a610628"
+    },
+    "styria": "c119df6361b3"
+}

@@ -1,0 +1,53 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "stool",
+                            "score": 0.929,
+                            "type_hierarchy": "/furniture/seat/stool"
+                        },
+                        {
+                            "class": "seat",
+                            "score": 0.938
+                        },
+                        {
+                            "class": "furniture",
+                            "score": 0.941
+                        },
+                        {
+                            "class": "taboret (stool)",
+                            "score": 0.774,
+                            "type_hierarchy": "/furniture/seat/stool/taboret (stool)"
+                        },
+                        {
+                            "class": "broadloom (carpet)",
+                            "score": 0.5,
+                            "type_hierarchy": "/floor cover/rug/broadloom (carpet)"
+                        },
+                        {
+                            "class": "rug",
+                            "score": 0.503
+                        },
+                        {
+                            "class": "floor cover",
+                            "score": 0.556
+                        },
+                        {
+                            "class": "reddish brown color",
+                            "score": 0.971
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/image17.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.7978546619415283
+}

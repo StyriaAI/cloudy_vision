@@ -1,0 +1,76 @@
+{
+    "response_time": 0.9340620040893555,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "gun",
+                    "mid": "/m/032rk",
+                    "score": 0.89030004,
+                    "topicality": 0.89030004
+                },
+                {
+                    "description": "grass",
+                    "mid": "/m/08t9c_",
+                    "score": 0.75705796,
+                    "topicality": 0.75705796
+                },
+                {
+                    "description": "firearm",
+                    "mid": "/m/034qg",
+                    "score": 0.74488026,
+                    "topicality": 0.74488026
+                },
+                {
+                    "description": "weapon",
+                    "mid": "/m/083kb",
+                    "score": 0.7428717,
+                    "topicality": 0.7428717
+                },
+                {
+                    "description": "tree",
+                    "mid": "/m/07j7r",
+                    "score": 0.6686135,
+                    "topicality": 0.6686135
+                },
+                {
+                    "description": "rifle",
+                    "mid": "/m/06c54",
+                    "score": 0.6028549,
+                    "topicality": 0.6028549
+                },
+                {
+                    "description": "grass family",
+                    "mid": "/m/0fkrk",
+                    "score": 0.55176294,
+                    "topicality": 0.55176294
+                },
+                {
+                    "description": "shooting sport",
+                    "mid": "/m/071t0",
+                    "score": 0.5414963,
+                    "topicality": 0.5414963
+                },
+                {
+                    "description": "airsoft",
+                    "mid": "/m/0179ss",
+                    "score": 0.5244424,
+                    "topicality": 0.5244424
+                },
+                {
+                    "description": "shooting",
+                    "mid": "/m/071rm",
+                    "score": 0.5236502,
+                    "topicality": 0.5236502
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

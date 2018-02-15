@@ -1,0 +1,96 @@
+{
+    "adult": {
+        "adultScore": 0.021891672164201736,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.02810678258538246
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.73828125
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "9F662C",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "Black",
+            "White"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.34725467335408733,
+                "text": "a bag of luggage"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "sitting",
+            "chair",
+            "desk",
+            "table",
+            "room",
+            "computer",
+            "small",
+            "bag",
+            "laptop",
+            "top",
+            "office",
+            "bed",
+            "suitcase",
+            "black",
+            "luggage",
+            "laying",
+            "white",
+            "keyboard",
+            "mouse",
+            "bedroom",
+            "living",
+            "cat",
+            "standing"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 256,
+        "width": 144
+    },
+    "requestId": "fccf8715-be64-4237-8b3f-9b696a17403f",
+    "response_time": 1.7939484119415283,
+    "tags": [
+        {
+            "confidence": 0.9615674614906311,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.9544358253479004,
+            "name": "floor"
+        },
+        {
+            "confidence": 0.3782693147659302,
+            "name": "bag"
+        },
+        {
+            "confidence": 0.35249656438827515,
+            "name": "accessory"
+        }
+    ]
+}

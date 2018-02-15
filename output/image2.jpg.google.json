@@ -1,0 +1,64 @@
+{
+    "response_time": 0.9156322479248047,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "technology",
+                    "mid": "/m/07c1v",
+                    "score": 0.926088,
+                    "topicality": 0.926088
+                },
+                {
+                    "description": "computer component",
+                    "mid": "/m/0h8lprf",
+                    "score": 0.92093676,
+                    "topicality": 0.92093676
+                },
+                {
+                    "description": "electronic device",
+                    "mid": "/m/0bs7_0t",
+                    "score": 0.8840105,
+                    "topicality": 0.8840105
+                },
+                {
+                    "description": "electronics accessory",
+                    "mid": "/m/0h8ksfs",
+                    "score": 0.8651717,
+                    "topicality": 0.8651717
+                },
+                {
+                    "description": "power supply",
+                    "mid": "/m/01g0wd",
+                    "score": 0.8104868,
+                    "topicality": 0.8104868
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/01jwgf",
+                    "score": 0.74507856,
+                    "topicality": 0.74507856
+                },
+                {
+                    "description": "electronics",
+                    "mid": "/m/02mrp",
+                    "score": 0.6958759,
+                    "topicality": 0.6958759
+                },
+                {
+                    "description": "data storage device",
+                    "mid": "/m/06_6r",
+                    "score": 0.55325305,
+                    "topicality": 0.55325305
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

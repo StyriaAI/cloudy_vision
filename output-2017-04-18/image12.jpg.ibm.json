@@ -1,0 +1,90 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "black",
+                            "score": 0.656
+                        },
+                        {
+                            "class": "vest",
+                            "score": 0.534,
+                            "type_hierarchy": "/garment/undergarment/vest"
+                        },
+                        {
+                            "class": "undergarment",
+                            "score": 0.644
+                        },
+                        {
+                            "class": "garment",
+                            "score": 0.65
+                        },
+                        {
+                            "class": "playsuit",
+                            "score": 0.531,
+                            "type_hierarchy": "/dress/outfit/playsuit"
+                        },
+                        {
+                            "class": "outfit",
+                            "score": 0.536
+                        },
+                        {
+                            "class": "dress",
+                            "score": 0.542
+                        },
+                        {
+                            "class": "corselet (women's dress)",
+                            "score": 0.518,
+                            "type_hierarchy": "/protective covering/armor/body armor/corselet (women's dress)"
+                        },
+                        {
+                            "class": "body armor",
+                            "score": 0.518
+                        },
+                        {
+                            "class": "armor",
+                            "score": 0.518
+                        },
+                        {
+                            "class": "protective covering",
+                            "score": 0.518
+                        },
+                        {
+                            "class": "chemise",
+                            "score": 0.513,
+                            "type_hierarchy": "/garment/undergarment/chemise"
+                        },
+                        {
+                            "class": "top (womans dress)",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "clothing",
+                            "score": 0.601
+                        },
+                        {
+                            "class": "fabric",
+                            "score": 0.594
+                        },
+                        {
+                            "class": "coal black color",
+                            "score": 0.84
+                        },
+                        {
+                            "class": "charcoal color",
+                            "score": 0.816
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/image12.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.99733567237854
+}

@@ -1,0 +1,84 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "peach orchard",
+                            "score": 0.623,
+                            "type_hierarchy": "/nature/peach orchard"
+                        },
+                        {
+                            "class": "nature",
+                            "score": 0.623
+                        },
+                        {
+                            "class": "Macoun",
+                            "score": 0.533,
+                            "type_hierarchy": "/fruit/pome/apple/eating apple/Macoun"
+                        },
+                        {
+                            "class": "eating apple",
+                            "score": 0.633
+                        },
+                        {
+                            "class": "apple",
+                            "score": 0.635
+                        },
+                        {
+                            "class": "pome",
+                            "score": 0.671
+                        },
+                        {
+                            "class": "fruit",
+                            "score": 0.747
+                        },
+                        {
+                            "class": "nectarine",
+                            "score": 0.526,
+                            "type_hierarchy": "/plant/tree/nectarine"
+                        },
+                        {
+                            "class": "tree",
+                            "score": 0.609
+                        },
+                        {
+                            "class": "plant",
+                            "score": 0.609
+                        },
+                        {
+                            "class": "freestone",
+                            "score": 0.524,
+                            "type_hierarchy": "/fruit/freestone"
+                        },
+                        {
+                            "class": "Pippin",
+                            "score": 0.511,
+                            "type_hierarchy": "/fruit/pome/apple/eating apple/Pippin"
+                        },
+                        {
+                            "class": "apple tree",
+                            "score": 0.5,
+                            "type_hierarchy": "/plant/tree/apple tree"
+                        },
+                        {
+                            "class": "reddish orange color",
+                            "score": 0.815
+                        },
+                        {
+                            "class": "greenishness color",
+                            "score": 0.795
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/image20.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.1516025066375732
+}

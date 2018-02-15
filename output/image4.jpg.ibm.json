@@ -1,0 +1,48 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "cell phone",
+                            "score": 0.884,
+                            "type_hierarchy": "/telecommunication/telephone/cell phone"
+                        },
+                        {
+                            "class": "telephone",
+                            "score": 0.941
+                        },
+                        {
+                            "class": "telecommunication",
+                            "score": 0.945
+                        },
+                        {
+                            "class": "handset",
+                            "score": 0.596,
+                            "type_hierarchy": "/telecommunication/telephone/handset"
+                        },
+                        {
+                            "class": "device",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "ash grey color",
+                            "score": 0.749
+                        },
+                        {
+                            "class": "purple color",
+                            "score": 0.645
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/image4.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.6532247066497803
+}

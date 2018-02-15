@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2018-02-15T12:16:40.961324572Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_9bHlLt8r",
+                        "name": "paper",
+                        "value": 0.9952893
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_HzmSJZZq",
+                        "name": "document",
+                        "value": 0.9842938
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_6lhccv44",
+                        "name": "business",
+                        "value": 0.9746218
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_M7TvgbrL",
+                        "name": "page",
+                        "value": 0.9205612
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_1Svqp4zD",
+                        "name": "book bindings",
+                        "value": 0.9022582
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_786Zr311",
+                        "name": "no person",
+                        "value": 0.89430606
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_tht6fzWZ",
+                        "name": "blank",
+                        "value": 0.89195997
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_9kHRpGGd",
+                        "name": "data",
+                        "value": 0.88447887
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_BQPLGj4W",
+                        "name": "book",
+                        "value": 0.8826232
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_ll97lFvS",
+                        "name": "office",
+                        "value": 0.8762678
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_p3STCvpt",
+                        "name": "writing",
+                        "value": 0.8755075
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_wLQ7hLvK",
+                        "name": "identity",
+                        "value": 0.8556188
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_p9bzR7fH",
+                        "name": "education",
+                        "value": 0.83693606
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_M78jFpM2",
+                        "name": "text",
+                        "value": 0.8345959
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_2lTFXx6G",
+                        "name": "note",
+                        "value": 0.833187
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_4Q1c7WFm",
+                        "name": "finance",
+                        "value": 0.8256593
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_mLjp28kd",
+                        "name": "laptop",
+                        "value": 0.8073534
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_ZrQ11vhd",
+                        "name": "reminder",
+                        "value": 0.77473354
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_5NvRrw97",
+                        "name": "facts",
+                        "value": 0.76635516
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_sx2j44wF",
+                        "name": "notebook",
+                        "value": 0.7591107
+                    }
+                ]
+            },
+            "id": "dab241c9f1eb428983c4dae2f0cc9964",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "true",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img2/prod/small/aa95525549c34247952dbd3c29b06244/b586c6310c4c48a18a9af6268c09b043"
+                    }
+                },
+                "id": "bedbe32f17774b07a111199eff7e5bcf"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 1.6434202194213867,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

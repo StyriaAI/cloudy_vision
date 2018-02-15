@@ -1,0 +1,112 @@
+{
+    "adult": {
+        "adultScore": 0.045219700783491135,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.09004750102758408
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.04296875
+        },
+        {
+            "name": "people_",
+            "score": 0.46484375
+        }
+    ],
+    "color": {
+        "accentColor": "A88423",
+        "dominantColorBackground": "Brown",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "Brown"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.813520430233743,
+                "text": "a close up of a hard wood floor"
+            }
+        ],
+        "tags": [
+            "floor",
+            "indoor",
+            "furniture",
+            "room",
+            "hard",
+            "living",
+            "chair",
+            "table",
+            "small",
+            "sitting",
+            "window",
+            "wood",
+            "white",
+            "wooden",
+            "rug",
+            "sink",
+            "home",
+            "tub",
+            "laying",
+            "computer",
+            "kitchen",
+            "large",
+            "laptop",
+            "television",
+            "cat",
+            "bathtub",
+            "dog",
+            "shower",
+            "bedroom"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 256,
+        "width": 142
+    },
+    "requestId": "6d3c9387-1c5d-42b2-a203-7786d28c7077",
+    "response_time": 1.529973030090332,
+    "tags": [
+        {
+            "confidence": 0.999430239200592,
+            "name": "floor"
+        },
+        {
+            "confidence": 0.997917115688324,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.9849151372909546,
+            "name": "wall"
+        },
+        {
+            "confidence": 0.9182820916175842,
+            "name": "furniture"
+        },
+        {
+            "confidence": 0.7644793391227722,
+            "name": "seat"
+        },
+        {
+            "confidence": 0.5921759605407715,
+            "name": "hard"
+        },
+        {
+            "confidence": 0.5460997819900513,
+            "name": "chair"
+        },
+        {
+            "confidence": 0.47293296456336975,
+            "name": "wood"
+        }
+    ]
+}

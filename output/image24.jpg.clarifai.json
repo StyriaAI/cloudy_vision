@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2018-02-15T12:21:44.548964404Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_GzMCzJF9",
+                        "name": "chair",
+                        "value": 0.98802847
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_xxnGcd42",
+                        "name": "seat",
+                        "value": 0.9821611
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_c9n7SB25",
+                        "name": "furniture",
+                        "value": 0.98049706
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_zFnPQdgB",
+                        "name": "wood",
+                        "value": 0.97135854
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_786Zr311",
+                        "name": "no person",
+                        "value": 0.96459913
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_XNpR6lwb",
+                        "name": "inside",
+                        "value": 0.96340525
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_j09mzT6j",
+                        "name": "family",
+                        "value": 0.9618913
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Pf2b7clG",
+                        "name": "indoors",
+                        "value": 0.95222425
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_l2vWw8mr",
+                        "name": "empty",
+                        "value": 0.9413074
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_pPxqdnP5",
+                        "name": "room",
+                        "value": 0.9386674
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_pCnxWJZh",
+                        "name": "contemporary",
+                        "value": 0.9250412
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_7Xg5SQRW",
+                        "name": "luxury",
+                        "value": 0.9225106
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Mh97GGhK",
+                        "name": "armchair",
+                        "value": 0.9221798
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_cMfj16kJ",
+                        "name": "design",
+                        "value": 0.91961324
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_8LWlDfFD",
+                        "name": "table",
+                        "value": 0.91264856
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_DqkHZlVW",
+                        "name": "relaxation",
+                        "value": 0.91253215
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_CV7d6rSH",
+                        "name": "wooden",
+                        "value": 0.90695417
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_1p2zMmqb",
+                        "name": "retro",
+                        "value": 0.88139445
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_9Dcdh0PK",
+                        "name": "house",
+                        "value": 0.8738023
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_KDtnG6dw",
+                        "name": "comfort",
+                        "value": 0.86649764
+                    }
+                ]
+            },
+            "id": "c3df31132c574232840607ef4eabc32e",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "true",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img2/prod/small/aa95525549c34247952dbd3c29b06244/fd62b816a8f84540908971a0dda2bec6"
+                    }
+                },
+                "id": "fc0c80de145a47d89617d36e0657acee"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 1.7312231063842773,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "adult": {
+        "adultScore": 0.011600286699831486,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.011808225885033607
+    },
+    "categories": [
+        {
+            "name": "abstract_",
+            "score": 0.05078125
+        },
+        {
+            "name": "indoor_doorwindows",
+            "score": 0.39453125
+        },
+        {
+            "name": "others_",
+            "score": 0.015625
+        }
+    ],
+    "color": {
+        "accentColor": "706A5B",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.2471872867874958,
+                "text": "a white refrigerator freezer sitting inside of a building"
+            }
+        ],
+        "tags": [
+            "building",
+            "sitting",
+            "white",
+            "refrigerator",
+            "door",
+            "house",
+            "kitchen",
+            "room",
+            "top",
+            "street",
+            "large",
+            "man",
+            "black",
+            "standing",
+            "parked",
+            "table",
+            "cat",
+            "woman",
+            "riding",
+            "stove",
+            "living",
+            "sign",
+            "oven",
+            "tall"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 256,
+        "width": 144
+    },
+    "requestId": "0ca6a606-25ed-48a8-b5eb-4d3255f6ded9",
+    "response_time": 1.6565132141113281,
+    "tags": [
+        {
+            "confidence": 0.8419831991195679,
+            "name": "building"
+        }
+    ]
+}

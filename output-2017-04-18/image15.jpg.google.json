@@ -1,0 +1,76 @@
+{
+    "response_time": 1.2024180889129639,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "bag",
+                    "mid": "/m/0n5v01m",
+                    "score": 0.9428473,
+                    "topicality": 0.9428473
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/01jwgf",
+                    "score": 0.92569643,
+                    "topicality": 0.92569643
+                },
+                {
+                    "description": "car seat cover",
+                    "mid": "/m/0h8kvwq",
+                    "score": 0.7902687,
+                    "topicality": 0.7902687
+                },
+                {
+                    "description": "backpack",
+                    "mid": "/m/01940j",
+                    "score": 0.73267764,
+                    "topicality": 0.73267764
+                },
+                {
+                    "description": "vehicle",
+                    "mid": "/m/07yv9",
+                    "score": 0.6942629,
+                    "topicality": 0.6942629
+                },
+                {
+                    "description": "product design",
+                    "mid": "/m/03y18t",
+                    "score": 0.6299649,
+                    "topicality": 0.6299649
+                },
+                {
+                    "description": "car seat",
+                    "mid": "/m/0268t21",
+                    "score": 0.5986792,
+                    "topicality": 0.5986792
+                },
+                {
+                    "description": "automotive exterior",
+                    "mid": "/m/0h8ls87",
+                    "score": 0.55328584,
+                    "topicality": 0.55328584
+                },
+                {
+                    "description": "comfort",
+                    "mid": "/m/08xgn7",
+                    "score": 0.5517313,
+                    "topicality": 0.5517313
+                },
+                {
+                    "description": "chair",
+                    "mid": "/m/01mzpv",
+                    "score": 0.5482009,
+                    "topicality": 0.5482009
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

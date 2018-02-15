@@ -1,0 +1,54 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "pinto horse",
+                            "score": 0.637,
+                            "type_hierarchy": "/animal/mammal/odd-toed ungulate (hoofed mammal)/pinto horse"
+                        },
+                        {
+                            "class": "odd-toed ungulate (hoofed mammal)",
+                            "score": 0.863
+                        },
+                        {
+                            "class": "mammal",
+                            "score": 0.863
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.863
+                        },
+                        {
+                            "class": "Indian pony",
+                            "score": 0.613,
+                            "type_hierarchy": "/animal/mammal/odd-toed ungulate (hoofed mammal)/Indian pony"
+                        },
+                        {
+                            "class": "chigetai (wild donkey)",
+                            "score": 0.543,
+                            "type_hierarchy": "/animal/mammal/odd-toed ungulate (hoofed mammal)/chigetai (wild donkey)"
+                        },
+                        {
+                            "class": "kiang (wild donkey)",
+                            "score": 0.5,
+                            "type_hierarchy": "/animal/mammal/odd-toed ungulate (hoofed mammal)/kiang (wild donkey)"
+                        },
+                        {
+                            "class": "light brown color",
+                            "score": 0.583
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/image19.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.9882903099060059
+}

@@ -1,0 +1,87 @@
+{
+    "adult": {
+        "adultScore": 0.01097413245588541,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.01807442121207714
+    },
+    "categories": [],
+    "color": {
+        "accentColor": "835E48",
+        "dominantColorBackground": "Brown",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Brown",
+            "Grey"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8673367680148505,
+                "text": "a small brown animal"
+            }
+        ],
+        "tags": [
+            "animal",
+            "indoor",
+            "mammal",
+            "brown",
+            "cat",
+            "dog",
+            "sitting",
+            "standing",
+            "small",
+            "looking",
+            "eating",
+            "room",
+            "laying",
+            "large",
+            "bowl",
+            "black",
+            "white",
+            "top",
+            "orange",
+            "sheep",
+            "mouth",
+            "sleeping",
+            "bed"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 144,
+        "width": 256
+    },
+    "requestId": "4a9b1130-ba23-4ab0-b3b7-79ebefdfb106",
+    "response_time": 1.566737413406372,
+    "tags": [
+        {
+            "confidence": 0.9658340811729431,
+            "name": "animal"
+        },
+        {
+            "confidence": 0.9547756314277649,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.9460486769676208,
+            "name": "floor"
+        },
+        {
+            "confidence": 0.9150913953781128,
+            "hint": "animal",
+            "name": "mammal"
+        },
+        {
+            "confidence": 0.780716598033905,
+            "name": "brown"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "adult": {
+        "adultScore": 0.02662177011370659,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.11151975393295288
+    },
+    "categories": [
+        {
+            "name": "abstract_",
+            "score": 0.00390625
+        },
+        {
+            "name": "others_",
+            "score": 0.00390625
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "outdoor_",
+            "score": 0.015625
+        }
+    ],
+    "color": {
+        "accentColor": "43886E",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.4817780342041979,
+                "text": "a close up of a machine"
+            }
+        ],
+        "tags": [
+            "thing",
+            "outdoor",
+            "green",
+            "old",
+            "small",
+            "sitting",
+            "kitchen",
+            "top",
+            "table",
+            "refrigerator",
+            "man",
+            "luggage",
+            "dirty",
+            "street",
+            "meter",
+            "suitcase",
+            "blue",
+            "parked",
+            "cat",
+            "standing",
+            "white",
+            "machine"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 256,
+        "width": 192
+    },
+    "requestId": "164bae7a-03b0-47e6-93c8-3d4c13e56221",
+    "response_time": 1.7931818962097168,
+    "tags": [
+        {
+            "confidence": 0.9842329025268555,
+            "name": "ground"
+        },
+        {
+            "confidence": 0.7449183464050293,
+            "name": "green"
+        },
+        {
+            "confidence": 0.7143203020095825,
+            "name": "tool"
+        },
+        {
+            "confidence": 0.5534286499023438,
+            "name": "old"
+        },
+        {
+            "confidence": 0.4969010353088379,
+            "name": "device"
+        },
+        {
+            "confidence": 0.21814893186092377,
+            "name": "miller"
+        },
+        {
+            "confidence": 0.17476403713226318,
+            "name": "trash"
+        },
+        {
+            "confidence": 0.1420888751745224,
+            "name": "dirty"
+        }
+    ]
+}

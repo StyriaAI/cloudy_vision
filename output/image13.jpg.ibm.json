@@ -1,0 +1,56 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "crusher",
+                            "score": 0.756
+                        },
+                        {
+                            "class": "garbage",
+                            "score": 0.534,
+                            "type_hierarchy": "/receptacle/garbage"
+                        },
+                        {
+                            "class": "receptacle",
+                            "score": 0.534
+                        },
+                        {
+                            "class": "generator",
+                            "score": 0.5,
+                            "type_hierarchy": "/machine/motor/engine/generator"
+                        },
+                        {
+                            "class": "engine",
+                            "score": 0.501
+                        },
+                        {
+                            "class": "motor",
+                            "score": 0.504
+                        },
+                        {
+                            "class": "machine",
+                            "score": 0.505
+                        },
+                        {
+                            "class": "building",
+                            "score": 0.582
+                        },
+                        {
+                            "class": "sage green color",
+                            "score": 0.729
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/image13.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.7904305458068848
+}

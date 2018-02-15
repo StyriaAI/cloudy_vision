@@ -1,0 +1,56 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "komondor dog",
+                            "score": 0.857,
+                            "type_hierarchy": "/animal/domestic animal/dog/shepherd dog/komondor dog"
+                        },
+                        {
+                            "class": "shepherd dog",
+                            "score": 0.859
+                        },
+                        {
+                            "class": "dog",
+                            "score": 0.906
+                        },
+                        {
+                            "class": "domestic animal",
+                            "score": 0.906
+                        },
+                        {
+                            "class": "animal",
+                            "score": 0.907
+                        },
+                        {
+                            "class": "Dandie Dinmont dog",
+                            "score": 0.5,
+                            "type_hierarchy": "/animal/domestic animal/dog/terrier dog/Dandie Dinmont dog"
+                        },
+                        {
+                            "class": "terrier dog",
+                            "score": 0.508
+                        },
+                        {
+                            "class": "ivory color",
+                            "score": 0.632
+                        },
+                        {
+                            "class": "light brown color",
+                            "score": 0.509
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/image6.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.027897596359253
+}

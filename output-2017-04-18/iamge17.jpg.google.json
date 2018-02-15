@@ -1,0 +1,64 @@
+{
+    "response_time": 0.9288122653961182,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "product",
+                    "mid": "/m/01jwgf",
+                    "score": 0.92511255,
+                    "topicality": 0.92511255
+                },
+                {
+                    "description": "chair",
+                    "mid": "/m/01mzpv",
+                    "score": 0.69292253,
+                    "topicality": 0.69292253
+                },
+                {
+                    "description": "product design",
+                    "mid": "/m/03y18t",
+                    "score": 0.5935388,
+                    "topicality": 0.5935388
+                },
+                {
+                    "description": "wheelchair",
+                    "mid": "/m/0qmmr",
+                    "score": 0.5827763,
+                    "topicality": 0.5827763
+                },
+                {
+                    "description": "health & beauty",
+                    "mid": "/m/0ggk3_t",
+                    "score": 0.57013595,
+                    "topicality": 0.57013595
+                },
+                {
+                    "description": "floor",
+                    "mid": "/m/0l7_8",
+                    "score": 0.5362303,
+                    "topicality": 0.5362303
+                },
+                {
+                    "description": "flooring",
+                    "mid": "/m/01c34b",
+                    "score": 0.51609415,
+                    "topicality": 0.51609415
+                },
+                {
+                    "description": "furniture",
+                    "mid": "/m/0c_jw",
+                    "score": 0.5116084,
+                    "topicality": 0.5116084
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

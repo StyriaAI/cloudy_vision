@@ -1,0 +1,52 @@
+{
+    "response_time": 0.9348642826080322,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "domestic rabbit",
+                    "mid": "/m/06bs13",
+                    "score": 0.85541654,
+                    "topicality": 0.85541654
+                },
+                {
+                    "description": "fauna",
+                    "mid": "/m/035qhg",
+                    "score": 0.81663376,
+                    "topicality": 0.81663376
+                },
+                {
+                    "description": "rabbit",
+                    "mid": "/m/06mf6",
+                    "score": 0.7985855,
+                    "topicality": 0.7985855
+                },
+                {
+                    "description": "rabits and hares",
+                    "mid": "/m/019dxh",
+                    "score": 0.73766917,
+                    "topicality": 0.73766917
+                },
+                {
+                    "description": "dog breed group",
+                    "mid": "/m/02xl47d",
+                    "score": 0.63194466,
+                    "topicality": 0.63194466
+                },
+                {
+                    "description": "snout",
+                    "mid": "/m/05mqq3",
+                    "score": 0.59997416,
+                    "topicality": 0.59997416
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "POSSIBLE",
+                "racy": "POSSIBLE",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "UNLIKELY"
+            }
+        }
+    ]
+}

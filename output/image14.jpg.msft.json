@@ -1,0 +1,55 @@
+{
+    "adult": {
+        "adultScore": 0.01953168213367462,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.03141212835907936
+    },
+    "categories": [],
+    "color": {
+        "accentColor": "406628",
+        "dominantColorBackground": "Green",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Green",
+            "Black"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7629768314558554,
+                "text": "a close up of some grass"
+            }
+        ],
+        "tags": [
+            "grass",
+            "outdoor",
+            "sitting",
+            "green"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 117,
+        "width": 256
+    },
+    "requestId": "f38e6358-3b87-4ac0-8b93-a5b4f34f3e6d",
+    "response_time": 1.6409885883331299,
+    "tags": [
+        {
+            "confidence": 0.9953533411026001,
+            "name": "grass"
+        },
+        {
+            "confidence": 0.9896981120109558,
+            "name": "outdoor"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "adult": {
+        "adultScore": 0.022669952362775803,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.021044474095106125
+    },
+    "categories": [
+        {
+            "name": "abstract_",
+            "score": 0.01953125
+        },
+        {
+            "name": "abstract_net",
+            "score": 0.296875
+        },
+        {
+            "detail": {
+                "landmarks": []
+            },
+            "name": "building_doorwindows",
+            "score": 0.25390625
+        },
+        {
+            "name": "others_",
+            "score": 0.00390625
+        }
+    ],
+    "color": {
+        "accentColor": "5B4D48",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8646883919078366,
+                "text": "a close up of a cage"
+            }
+        ],
+        "tags": [
+            "fence",
+            "building",
+            "sitting",
+            "room",
+            "table",
+            "old",
+            "wooden",
+            "glass",
+            "black",
+            "white",
+            "standing",
+            "suitcase",
+            "cat",
+            "cage",
+            "luggage",
+            "bed",
+            "snow"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 192,
+        "width": 256
+    },
+    "requestId": "7ee567fd-5681-4000-8a34-aaaa89145a49",
+    "response_time": 1.8007915019989014,
+    "tags": []
+}

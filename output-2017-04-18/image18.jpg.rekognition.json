@@ -1,0 +1,38 @@
+{
+    "Labels": [
+        {
+            "Confidence": 50.801395416259766,
+            "Name": "Adapter"
+        },
+        {
+            "Confidence": 50.801395416259766,
+            "Name": "Connector"
+        },
+        {
+            "Confidence": 50.801395416259766,
+            "Name": "Electrical Device"
+        },
+        {
+            "Confidence": 50.65354537963867,
+            "Name": "Cd Player"
+        },
+        {
+            "Confidence": 50.65354537963867,
+            "Name": "Electronics"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "318",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 15 Feb 2018 11:50:43 GMT",
+            "x-amzn-requestid": "73f5cfa6-1246-11e8-8e59-f7d729baab6a"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "73f5cfa6-1246-11e8-8e59-f7d729baab6a",
+        "RetryAttempts": 0
+    },
+    "response_time": 0.719811201095581
+}

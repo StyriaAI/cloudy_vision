@@ -1,0 +1,48 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "laundry cart",
+                            "score": 0.919,
+                            "type_hierarchy": "/vehicle/wheeled vehicle/handcart/laundry cart"
+                        },
+                        {
+                            "class": "handcart",
+                            "score": 0.983
+                        },
+                        {
+                            "class": "wheeled vehicle",
+                            "score": 0.983
+                        },
+                        {
+                            "class": "vehicle",
+                            "score": 0.983
+                        },
+                        {
+                            "class": "shopping cart",
+                            "score": 0.644,
+                            "type_hierarchy": "/vehicle/wheeled vehicle/handcart/shopping cart"
+                        },
+                        {
+                            "class": "transport",
+                            "score": 0.795
+                        },
+                        {
+                            "class": "ash grey color",
+                            "score": 0.989
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/iamge17.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.9078769683837891
+}

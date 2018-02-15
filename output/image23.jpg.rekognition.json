@@ -1,0 +1,26 @@
+{
+    "Labels": [
+        {
+            "Confidence": 53.505741119384766,
+            "Name": "Flooring"
+        },
+        {
+            "Confidence": 51.134830474853516,
+            "Name": "Furniture"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "152",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 15 Feb 2018 12:16:43 GMT",
+            "x-amzn-requestid": "15927662-124a-11e8-91be-33f6d599f191"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "15927662-124a-11e8-91be-33f6d599f191",
+        "RetryAttempts": 0
+    },
+    "response_time": 0.5294218063354492
+}

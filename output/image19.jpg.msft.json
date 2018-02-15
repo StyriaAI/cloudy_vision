@@ -1,0 +1,93 @@
+{
+    "adult": {
+        "adultScore": 0.039445556700229645,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.02905985899269581
+    },
+    "categories": [
+        {
+            "name": "animal_horse",
+            "score": 0.99609375
+        }
+    ],
+    "color": {
+        "accentColor": "7C6D4F",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White",
+            "Grey"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9671092475999242,
+                "text": "a horse standing on top of a dirt field"
+            }
+        ],
+        "tags": [
+            "outdoor",
+            "grass",
+            "mammal",
+            "animal",
+            "horse",
+            "standing",
+            "field",
+            "brown",
+            "dirt",
+            "hay",
+            "dry",
+            "grazing",
+            "group",
+            "white",
+            "water",
+            "riding"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 256,
+        "width": 165
+    },
+    "requestId": "21bfec76-f819-4072-8af7-c88a8810fc29",
+    "response_time": 1.7702913284301758,
+    "tags": [
+        {
+            "confidence": 0.9983657002449036,
+            "name": "outdoor"
+        },
+        {
+            "confidence": 0.9790984392166138,
+            "name": "grass"
+        },
+        {
+            "confidence": 0.9617969989776611,
+            "hint": "animal",
+            "name": "mammal"
+        },
+        {
+            "confidence": 0.9430417418479919,
+            "name": "animal"
+        },
+        {
+            "confidence": 0.8671767115592957,
+            "name": "horse"
+        },
+        {
+            "confidence": 0.7899475693702698,
+            "name": "standing"
+        },
+        {
+            "confidence": 0.20163212716579437,
+            "name": "dirt"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "Labels": [
+        {
+            "Confidence": 76.47634887695312,
+            "Name": "Animal"
+        },
+        {
+            "Confidence": 76.47634887695312,
+            "Name": "Bunny"
+        },
+        {
+            "Confidence": 76.47634887695312,
+            "Name": "Mammal"
+        },
+        {
+            "Confidence": 76.47634887695312,
+            "Name": "Rabbit"
+        },
+        {
+            "Confidence": 76.47634887695312,
+            "Name": "Rodent"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "291",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 15 Feb 2018 12:18:32 GMT",
+            "x-amzn-requestid": "56cd8714-124a-11e8-b75b-719b93fb7615"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "56cd8714-124a-11e8-b75b-719b93fb7615",
+        "RetryAttempts": 0
+    },
+    "response_time": 0.40064311027526855
+}

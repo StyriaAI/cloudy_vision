@@ -1,0 +1,76 @@
+{
+    "response_time": 0.9108700752258301,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "furniture",
+                    "mid": "/m/0c_jw",
+                    "score": 0.9725822,
+                    "topicality": 0.9725822
+                },
+                {
+                    "description": "property",
+                    "mid": "/m/05wrt",
+                    "score": 0.9320114,
+                    "topicality": 0.9320114
+                },
+                {
+                    "description": "table",
+                    "mid": "/m/04bcr3",
+                    "score": 0.91386116,
+                    "topicality": 0.91386116
+                },
+                {
+                    "description": "chair",
+                    "mid": "/m/01mzpv",
+                    "score": 0.7797107,
+                    "topicality": 0.7797107
+                },
+                {
+                    "description": "stool",
+                    "mid": "/m/0fqt361",
+                    "score": 0.6881217,
+                    "topicality": 0.6881217
+                },
+                {
+                    "description": "floor",
+                    "mid": "/m/0l7_8",
+                    "score": 0.62742203,
+                    "topicality": 0.62742203
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/01jwgf",
+                    "score": 0.6201852,
+                    "topicality": 0.6201852
+                },
+                {
+                    "description": "product design",
+                    "mid": "/m/03y18t",
+                    "score": 0.6160478,
+                    "topicality": 0.6160478
+                },
+                {
+                    "description": "flooring",
+                    "mid": "/m/01c34b",
+                    "score": 0.6062795,
+                    "topicality": 0.6062795
+                },
+                {
+                    "description": "angle",
+                    "mid": "/m/0mwc",
+                    "score": 0.5732847,
+                    "topicality": 0.5732847
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

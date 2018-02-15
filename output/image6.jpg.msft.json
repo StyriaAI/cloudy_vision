@@ -1,0 +1,46 @@
+{
+    "adult": {
+        "adultScore": 0.012761017307639122,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.014556914567947388
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.84765625
+        }
+    ],
+    "color": {
+        "accentColor": "A64525",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "White",
+            "Black"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8427079179017967,
+                "text": "a close up of a device"
+            }
+        ],
+        "tags": []
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 256,
+        "width": 192
+    },
+    "requestId": "5b4cc195-1944-437b-9def-14d43fbfb234",
+    "response_time": 1.5241334438323975,
+    "tags": []
+}

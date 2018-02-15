@@ -1,0 +1,78 @@
+{
+    "response_time": 0.9884979724884033,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "comic book",
+                    "mid": "/m/01vnb",
+                    "score": 0.7676439,
+                    "topicality": 0.7676439
+                },
+                {
+                    "description": "superhero",
+                    "mid": "/m/0btmb",
+                    "score": 0.72024995,
+                    "topicality": 0.72024995
+                },
+                {
+                    "description": "fictional character",
+                    "mid": "/m/02h7lkt",
+                    "score": 0.71190906,
+                    "topicality": 0.71190906
+                },
+                {
+                    "description": "book",
+                    "mid": "/m/0bt_c3",
+                    "score": 0.64654297,
+                    "topicality": 0.64654297
+                },
+                {
+                    "description": "comics",
+                    "mid": "/m/012h24",
+                    "score": 0.64649445,
+                    "topicality": 0.64649445
+                },
+                {
+                    "description": "fiction",
+                    "mid": "/m/02xlf",
+                    "score": 0.59104586,
+                    "topicality": 0.59104586
+                }
+            ],
+            "logoAnnotations": [
+                {
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 31,
+                                "y": 129
+                            },
+                            {
+                                "x": 144,
+                                "y": 129
+                            },
+                            {
+                                "x": 144,
+                                "y": 217
+                            },
+                            {
+                                "x": 31,
+                                "y": 217
+                            }
+                        ]
+                    },
+                    "description": "Tex",
+                    "score": 0.5478706
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "LIKELY",
+                "spoof": "POSSIBLE",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

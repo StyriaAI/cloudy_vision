@@ -1,0 +1,52 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "iPod",
+                            "score": 0.681,
+                            "type_hierarchy": "/audio system/stereo system/iPod"
+                        },
+                        {
+                            "class": "stereo system",
+                            "score": 0.793
+                        },
+                        {
+                            "class": "audio system",
+                            "score": 0.793
+                        },
+                        {
+                            "class": "video iPod",
+                            "score": 0.613,
+                            "type_hierarchy": "/audio system/stereo system/video iPod"
+                        },
+                        {
+                            "class": "cigarette case",
+                            "score": 0.598
+                        },
+                        {
+                            "class": "cardcase",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "figure",
+                            "score": 0.598
+                        },
+                        {
+                            "class": "jade green color",
+                            "score": 0.555
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/image6.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.7908287048339844
+}

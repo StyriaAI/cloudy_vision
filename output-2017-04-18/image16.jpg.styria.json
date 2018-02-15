@@ -1,0 +1,19 @@
+{
+    "data": {
+        "categories": [
+            {
+                "id": 12006,
+                "name": "/Boats/Boats"
+            },
+            {
+                "id": 9742,
+                "name": "/Sports equipment/Water sports"
+            },
+            {
+                "id": 12007,
+                "name": "/Boats/Charter"
+            }
+        ]
+    },
+    "response_time": 0.33524131774902344
+}

@@ -1,0 +1,86 @@
+{
+    "adult": {
+        "adultScore": 0.02222849801182747,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.020769700407981873
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.5546875
+        },
+        {
+            "name": "people_",
+            "score": 0.328125
+        }
+    ],
+    "color": {
+        "accentColor": "956C36",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "White",
+            "Black"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8290843429010981,
+                "text": "a person wearing a black dress"
+            }
+        ],
+        "tags": [
+            "clothing",
+            "indoor",
+            "bathroom",
+            "black",
+            "man",
+            "photo",
+            "standing",
+            "sitting",
+            "wearing",
+            "dress",
+            "woman",
+            "white",
+            "mirror",
+            "suit",
+            "shirt",
+            "holding",
+            "refrigerator",
+            "young",
+            "room",
+            "sink",
+            "cat",
+            "shower"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 256,
+        "width": 192
+    },
+    "requestId": "763470c8-b3ed-411c-b5dc-70c08ab38fcc",
+    "response_time": 1.7365610599517822,
+    "tags": [
+        {
+            "confidence": 0.9880869388580322,
+            "name": "clothing"
+        },
+        {
+            "confidence": 0.9844399690628052,
+            "name": "wall"
+        },
+        {
+            "confidence": 0.9445996880531311,
+            "name": "indoor"
+        }
+    ]
+}

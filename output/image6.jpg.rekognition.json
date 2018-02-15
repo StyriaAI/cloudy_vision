@@ -1,0 +1,42 @@
+{
+    "Labels": [
+        {
+            "Confidence": 91.15119934082031,
+            "Name": "Electronics"
+        },
+        {
+            "Confidence": 91.15119934082031,
+            "Name": "Ipod"
+        },
+        {
+            "Confidence": 53.53595733642578,
+            "Name": "Cell Phone"
+        },
+        {
+            "Confidence": 53.53595733642578,
+            "Name": "Computer"
+        },
+        {
+            "Confidence": 53.53595733642578,
+            "Name": "Mobile Phone"
+        },
+        {
+            "Confidence": 53.53595733642578,
+            "Name": "Phone"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "355",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 15 Feb 2018 12:21:12 GMT",
+            "x-amzn-requestid": "b5c2ea20-124a-11e8-9f68-978b97de60bd"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "b5c2ea20-124a-11e8-9f68-978b97de60bd",
+        "RetryAttempts": 0
+    },
+    "response_time": 0.4219787120819092
+}

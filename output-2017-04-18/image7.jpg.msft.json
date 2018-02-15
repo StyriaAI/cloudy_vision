@@ -1,0 +1,114 @@
+{
+    "adult": {
+        "adultScore": 0.008338816463947296,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.01238247286528349
+    },
+    "categories": [
+        {
+            "name": "trans_car",
+            "score": 0.98828125
+        }
+    ],
+    "color": {
+        "accentColor": "6A2E35",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.9113089828089158,
+                "text": "a car parked in a parking lot"
+            }
+        ],
+        "tags": [
+            "car",
+            "road",
+            "outdoor",
+            "street",
+            "parked",
+            "parking",
+            "police",
+            "city",
+            "front",
+            "surfing",
+            "lot",
+            "sitting",
+            "side",
+            "bed",
+            "truck",
+            "hydrant",
+            "white",
+            "driving",
+            "traffic",
+            "meter",
+            "riding",
+            "fire",
+            "man",
+            "blue",
+            "mirror",
+            "silver",
+            "red",
+            "people",
+            "standing",
+            "sign",
+            "cat"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 192,
+        "width": 256
+    },
+    "requestId": "7e06b405-4132-4c50-97cc-617c2f58be55",
+    "response_time": 1.6834077835083008,
+    "tags": [
+        {
+            "confidence": 0.9999815225601196,
+            "name": "car"
+        },
+        {
+            "confidence": 0.9992284774780273,
+            "name": "road"
+        },
+        {
+            "confidence": 0.9984176158905029,
+            "name": "outdoor"
+        },
+        {
+            "confidence": 0.8046979904174805,
+            "name": "street"
+        },
+        {
+            "confidence": 0.7844081521034241,
+            "name": "transport"
+        },
+        {
+            "confidence": 0.7068834900856018,
+            "name": "parked"
+        },
+        {
+            "confidence": 0.4321274161338806,
+            "name": "police"
+        },
+        {
+            "confidence": 0.21025429666042328,
+            "name": "curb"
+        },
+        {
+            "confidence": 0.15995118021965027,
+            "name": "roof"
+        }
+    ]
+}

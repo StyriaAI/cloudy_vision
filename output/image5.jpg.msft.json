@@ -1,0 +1,82 @@
+{
+    "adult": {
+        "adultScore": 0.009694201871752739,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.016611428931355476
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.99609375
+        }
+    ],
+    "color": {
+        "accentColor": "50593D",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey",
+            "Black"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8968113220673883,
+                "text": "a wheel with grass"
+            }
+        ],
+        "tags": [
+            "outdoor",
+            "grass",
+            "transport",
+            "wheel",
+            "dog",
+            "small",
+            "sitting",
+            "black",
+            "parked",
+            "white",
+            "laying",
+            "gray",
+            "side",
+            "green",
+            "standing",
+            "old",
+            "sign",
+            "street"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 192,
+        "width": 256
+    },
+    "requestId": "034b1e47-fe97-4041-8c09-c1315a9831f9",
+    "response_time": 1.4999430179595947,
+    "tags": [
+        {
+            "confidence": 0.9981679916381836,
+            "name": "outdoor"
+        },
+        {
+            "confidence": 0.9964507818222046,
+            "name": "grass"
+        },
+        {
+            "confidence": 0.9890174865722656,
+            "name": "transport"
+        },
+        {
+            "confidence": 0.9725214242935181,
+            "name": "wheel"
+        }
+    ]
+}

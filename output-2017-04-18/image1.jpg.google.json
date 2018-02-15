@@ -1,0 +1,76 @@
+{
+    "response_time": 1.2863154411315918,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "fruit",
+                    "mid": "/m/02xwb",
+                    "score": 0.96296954,
+                    "topicality": 0.96296954
+                },
+                {
+                    "description": "apple",
+                    "mid": "/m/014j1m",
+                    "score": 0.94856894,
+                    "topicality": 0.94856894
+                },
+                {
+                    "description": "local food",
+                    "mid": "/m/01hxyd",
+                    "score": 0.92014515,
+                    "topicality": 0.92014515
+                },
+                {
+                    "description": "produce",
+                    "mid": "/m/036qh8",
+                    "score": 0.90670794,
+                    "topicality": 0.90670794
+                },
+                {
+                    "description": "natural foods",
+                    "mid": "/m/08tlbj",
+                    "score": 0.9016019,
+                    "topicality": 0.9016019
+                },
+                {
+                    "description": "pomegranate",
+                    "mid": "/m/0jwn_",
+                    "score": 0.86071247,
+                    "topicality": 0.86071247
+                },
+                {
+                    "description": "food",
+                    "mid": "/m/02wbm",
+                    "score": 0.75495523,
+                    "topicality": 0.75495523
+                },
+                {
+                    "description": "peach",
+                    "mid": "/m/0dj6p",
+                    "score": 0.7196745,
+                    "topicality": 0.7196745
+                },
+                {
+                    "description": "fruit tree",
+                    "mid": "/m/0p719",
+                    "score": 0.7149843,
+                    "topicality": 0.7149843
+                },
+                {
+                    "description": "plant",
+                    "mid": "/m/05s2s",
+                    "score": 0.71422905,
+                    "topicality": 0.71422905
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

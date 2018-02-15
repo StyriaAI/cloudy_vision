@@ -1,0 +1,74 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "hubcap",
+                            "score": 0.803,
+                            "type_hierarchy": "/protective covering/cap/hubcap"
+                        },
+                        {
+                            "class": "cap",
+                            "score": 0.803
+                        },
+                        {
+                            "class": "protective covering",
+                            "score": 0.803
+                        },
+                        {
+                            "class": "wheel",
+                            "score": 0.727,
+                            "type_hierarchy": "/mechanical device/machine/wheel"
+                        },
+                        {
+                            "class": "machine",
+                            "score": 0.727
+                        },
+                        {
+                            "class": "mechanical device",
+                            "score": 0.728
+                        },
+                        {
+                            "class": "car wheel",
+                            "score": 0.542,
+                            "type_hierarchy": "/mechanical device/machine/wheel/car wheel"
+                        },
+                        {
+                            "class": "wheel spoke",
+                            "score": 0.529,
+                            "type_hierarchy": "/support/wheel spoke"
+                        },
+                        {
+                            "class": "support",
+                            "score": 0.529
+                        },
+                        {
+                            "class": "wagon tire",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "mechanism",
+                            "score": 0.8
+                        },
+                        {
+                            "class": "round shape",
+                            "score": 0.798
+                        },
+                        {
+                            "class": "charcoal color",
+                            "score": 0.984
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/image5.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.0031671524047852
+}

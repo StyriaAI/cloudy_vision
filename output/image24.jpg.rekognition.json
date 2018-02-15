@@ -1,0 +1,26 @@
+{
+    "Labels": [
+        {
+            "Confidence": 90.8838882446289,
+            "Name": "Bowl"
+        },
+        {
+            "Confidence": 52.39173889160156,
+            "Name": "Furniture"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "145",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 15 Feb 2018 12:21:29 GMT",
+            "x-amzn-requestid": "c02ec338-124a-11e8-91d9-4177c74df54e"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "c02ec338-124a-11e8-91d9-4177c74df54e",
+        "RetryAttempts": 0
+    },
+    "response_time": 0.39556407928466797
+}

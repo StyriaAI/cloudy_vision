@@ -1,0 +1,68 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "comic book",
+                            "score": 0.819,
+                            "type_hierarchy": "/magazine/comic book"
+                        },
+                        {
+                            "class": "magazine",
+                            "score": 0.827
+                        },
+                        {
+                            "class": "book",
+                            "score": 0.553
+                        },
+                        {
+                            "class": "laptop computer",
+                            "score": 0.5,
+                            "type_hierarchy": "/machine/computer/digital computer/personal computer/portable computer/laptop computer"
+                        },
+                        {
+                            "class": "portable computer",
+                            "score": 0.513
+                        },
+                        {
+                            "class": "personal computer",
+                            "score": 0.513
+                        },
+                        {
+                            "class": "digital computer",
+                            "score": 0.513
+                        },
+                        {
+                            "class": "computer",
+                            "score": 0.513
+                        },
+                        {
+                            "class": "machine",
+                            "score": 0.513
+                        },
+                        {
+                            "class": "print media",
+                            "score": 0.801
+                        },
+                        {
+                            "class": "memory device",
+                            "score": 0.783
+                        },
+                        {
+                            "class": "ultramarine color",
+                            "score": 0.849
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/image22.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.820967435836792
+}

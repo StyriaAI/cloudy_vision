@@ -1,0 +1,43 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "blackboard eraser",
+                            "score": 0.805,
+                            "type_hierarchy": "/eraser/blackboard eraser"
+                        },
+                        {
+                            "class": "eraser",
+                            "score": 0.828
+                        },
+                        {
+                            "class": "whetstone",
+                            "score": 0.607
+                        },
+                        {
+                            "class": "matchbook",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "cleaning implement",
+                            "score": 0.783
+                        },
+                        {
+                            "class": "beige color",
+                            "score": 0.603
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/image11.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.6709883213043213
+}

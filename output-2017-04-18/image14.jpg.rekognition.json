@@ -1,0 +1,30 @@
+{
+    "Labels": [
+        {
+            "Confidence": 52.413429260253906,
+            "Name": "Camera"
+        },
+        {
+            "Confidence": 52.413429260253906,
+            "Name": "Electronics"
+        },
+        {
+            "Confidence": 52.413429260253906,
+            "Name": "Video Camera"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "208",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 15 Feb 2018 11:49:03 GMT",
+            "x-amzn-requestid": "3824b37f-1246-11e8-93b2-c13acf1cc6ab"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "3824b37f-1246-11e8-93b2-c13acf1cc6ab",
+        "RetryAttempts": 0
+    },
+    "response_time": 0.7445774078369141
+}

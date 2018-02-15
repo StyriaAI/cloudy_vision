@@ -1,0 +1,47 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "fan",
+                            "score": 0.941
+                        },
+                        {
+                            "class": "exhaust fan",
+                            "score": 0.631,
+                            "type_hierarchy": "/fan/exhaust fan"
+                        },
+                        {
+                            "class": "ventilator",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "equipment",
+                            "score": 0.764
+                        },
+                        {
+                            "class": "mechanism",
+                            "score": 0.797
+                        },
+                        {
+                            "class": "charcoal color",
+                            "score": 0.911
+                        },
+                        {
+                            "class": "ash grey color",
+                            "score": 0.796
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/image2.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.7368142604827881
+}

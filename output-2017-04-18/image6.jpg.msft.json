@@ -1,0 +1,96 @@
+{
+    "adult": {
+        "adultScore": 0.031154047697782516,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.11986950039863586
+    },
+    "categories": [
+        {
+            "name": "animal_dog",
+            "score": 0.99609375
+        }
+    ],
+    "color": {
+        "accentColor": "515928",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White",
+            "Grey"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8722213967760243,
+                "text": "a brown and white dog sitting on a rock"
+            }
+        ],
+        "tags": [
+            "outdoor",
+            "grass",
+            "animal",
+            "dog",
+            "mammal",
+            "sitting",
+            "brown",
+            "sheep",
+            "field",
+            "standing",
+            "rock",
+            "top",
+            "small",
+            "laying",
+            "bear",
+            "rocky",
+            "white",
+            "large",
+            "green",
+            "snow",
+            "grassy",
+            "river",
+            "hill"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 192,
+        "width": 256
+    },
+    "requestId": "f9d858c9-8879-4c69-9aed-3558dc4bcb9f",
+    "response_time": 1.72706937789917,
+    "tags": [
+        {
+            "confidence": 0.9995242357254028,
+            "name": "outdoor"
+        },
+        {
+            "confidence": 0.9923406839370728,
+            "name": "grass"
+        },
+        {
+            "confidence": 0.9807769656181335,
+            "name": "animal"
+        },
+        {
+            "confidence": 0.9780408143997192,
+            "name": "dog"
+        },
+        {
+            "confidence": 0.9631685614585876,
+            "hint": "animal",
+            "name": "mammal"
+        },
+        {
+            "confidence": 0.83797687292099,
+            "name": "brown"
+        }
+    ]
+}

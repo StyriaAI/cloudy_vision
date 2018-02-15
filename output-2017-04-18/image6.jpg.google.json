@@ -1,0 +1,76 @@
+{
+    "response_time": 1.228294849395752,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "dog like mammal",
+                    "mid": "/m/01z5f",
+                    "score": 0.9472494,
+                    "topicality": 0.9472494
+                },
+                {
+                    "description": "dog breed",
+                    "mid": "/m/0kpmf",
+                    "score": 0.9232017,
+                    "topicality": 0.9232017
+                },
+                {
+                    "description": "spanish water dog",
+                    "mid": "/m/0271kpq",
+                    "score": 0.91821444,
+                    "topicality": 0.91821444
+                },
+                {
+                    "description": "dog",
+                    "mid": "/m/0bt9lr",
+                    "score": 0.8935138,
+                    "topicality": 0.8935138
+                },
+                {
+                    "description": "lagotto romagnolo",
+                    "mid": "/m/062dgz",
+                    "score": 0.8684775,
+                    "topicality": 0.8684775
+                },
+                {
+                    "description": "dog breed group",
+                    "mid": "/m/02xl47d",
+                    "score": 0.80374956,
+                    "topicality": 0.80374956
+                },
+                {
+                    "description": "water dog",
+                    "mid": "/m/039nn_",
+                    "score": 0.7563442,
+                    "topicality": 0.7563442
+                },
+                {
+                    "description": "carnivoran",
+                    "mid": "/m/01lrl",
+                    "score": 0.71355766,
+                    "topicality": 0.71355766
+                },
+                {
+                    "description": "cockapoo",
+                    "mid": "/m/02fxgn",
+                    "score": 0.70790493,
+                    "topicality": 0.70790493
+                },
+                {
+                    "description": "poodle crossbreed",
+                    "mid": "/m/04dz31",
+                    "score": 0.6796714,
+                    "topicality": 0.6796714
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "VERY_UNLIKELY",
+                "spoof": "UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

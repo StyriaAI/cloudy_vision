@@ -1,0 +1,55 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "spin dryer",
+                            "score": 0.855,
+                            "type_hierarchy": "/appliance/dryer/spin dryer"
+                        },
+                        {
+                            "class": "dryer",
+                            "score": 0.936
+                        },
+                        {
+                            "class": "appliance",
+                            "score": 0.995
+                        },
+                        {
+                            "class": "automatic washer",
+                            "score": 0.673,
+                            "type_hierarchy": "/appliance/automatic washer"
+                        },
+                        {
+                            "class": "Washer and Dryer",
+                            "score": 0.572,
+                            "type_hierarchy": "/appliance/Washer and Dryer"
+                        },
+                        {
+                            "class": "tumble-dryer",
+                            "score": 0.522,
+                            "type_hierarchy": "/appliance/dryer/tumble-dryer"
+                        },
+                        {
+                            "class": "white goods",
+                            "score": 0.5,
+                            "type_hierarchy": "/appliance/white goods"
+                        },
+                        {
+                            "class": "sage green color",
+                            "score": 0.503
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/image7.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.7979297637939453
+}

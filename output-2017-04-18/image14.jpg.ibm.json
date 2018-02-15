@@ -1,0 +1,78 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "rocket launcher",
+                            "score": 0.594,
+                            "type_hierarchy": "/weaponry/rocket launcher"
+                        },
+                        {
+                            "class": "weaponry",
+                            "score": 0.615
+                        },
+                        {
+                            "class": "weapon",
+                            "score": 0.69
+                        },
+                        {
+                            "class": "cheekpiece",
+                            "score": 0.532,
+                            "type_hierarchy": "/weapon/gun/firearm/cheekpiece"
+                        },
+                        {
+                            "class": "firearm",
+                            "score": 0.543
+                        },
+                        {
+                            "class": "gun",
+                            "score": 0.567
+                        },
+                        {
+                            "class": "rangefinder",
+                            "score": 0.511,
+                            "type_hierarchy": "/measuring instrument/rangefinder"
+                        },
+                        {
+                            "class": "measuring instrument",
+                            "score": 0.511
+                        },
+                        {
+                            "class": "claymore mine",
+                            "score": 0.5,
+                            "type_hierarchy": "/explosive device/claymore mine"
+                        },
+                        {
+                            "class": "explosive device",
+                            "score": 0.506
+                        },
+                        {
+                            "class": "instrument",
+                            "score": 0.601
+                        },
+                        {
+                            "class": "optical device",
+                            "score": 0.599
+                        },
+                        {
+                            "class": "greenishness color",
+                            "score": 0.878
+                        },
+                        {
+                            "class": "charcoal color",
+                            "score": 0.815
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/image14.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 1.0145092010498047
+}

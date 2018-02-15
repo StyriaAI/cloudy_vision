@@ -1,0 +1,34 @@
+{
+    "Labels": [
+        {
+            "Confidence": 52.650089263916016,
+            "Name": "Electronics"
+        },
+        {
+            "Confidence": 52.650089263916016,
+            "Name": "Joystick"
+        },
+        {
+            "Confidence": 52.26702880859375,
+            "Name": "Phone"
+        },
+        {
+            "Confidence": 51.39448165893555,
+            "Name": "Console"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "252",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Fri, 02 Feb 2018 07:32:19 GMT",
+            "x-amzn-requestid": "32f3d704-07eb-11e8-ba78-d5ff1d21921f"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "32f3d704-07eb-11e8-ba78-d5ff1d21921f",
+        "RetryAttempts": 0
+    },
+    "response_time": 1.2115931510925293
+}

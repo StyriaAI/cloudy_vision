@@ -1,0 +1,19 @@
+{
+    "data": {
+        "categories": [
+            {
+                "id": 12364,
+                "name": "/Machines and tools/Machining / machines and tools/Machines and tools for metalworking"
+            },
+            {
+                "id": 12365,
+                "name": "/Machines and tools/Machining / machines and tools/Woodworking machines and tools"
+            },
+            {
+                "id": 13375,
+                "name": "/Machines and tools/Forestry machinery and equipment/Forestry tools and equipment"
+            }
+        ]
+    },
+    "response_time": 0.0803537368774414
+}

@@ -1,0 +1,42 @@
+{
+    "Labels": [
+        {
+            "Confidence": 97.42264556884766,
+            "Name": "Cell Phone"
+        },
+        {
+            "Confidence": 97.42264556884766,
+            "Name": "Computer"
+        },
+        {
+            "Confidence": 97.42264556884766,
+            "Name": "Electronics"
+        },
+        {
+            "Confidence": 97.42264556884766,
+            "Name": "Mobile Phone"
+        },
+        {
+            "Confidence": 97.42264556884766,
+            "Name": "Phone"
+        },
+        {
+            "Confidence": 60.309261322021484,
+            "Name": "Calculator"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "362",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 15 Feb 2018 12:17:01 GMT",
+            "x-amzn-requestid": "206267fc-124a-11e8-8bb6-8f53d0ad9eae"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "206267fc-124a-11e8-8bb6-8f53d0ad9eae",
+        "RetryAttempts": 0
+    },
+    "response_time": 0.5605287551879883
+}

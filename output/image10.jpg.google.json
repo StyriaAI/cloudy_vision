@@ -1,0 +1,64 @@
+{
+    "response_time": 0.9740633964538574,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "iron",
+                    "mid": "/m/025rw19",
+                    "score": 0.8935554,
+                    "topicality": 0.8935554
+                },
+                {
+                    "description": "metal",
+                    "mid": "/m/04t7l",
+                    "score": 0.7872512,
+                    "topicality": 0.7872512
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/01jwgf",
+                    "score": 0.7460548,
+                    "topicality": 0.7460548
+                },
+                {
+                    "description": "mesh",
+                    "mid": "/m/0413y3",
+                    "score": 0.6453388,
+                    "topicality": 0.6453388
+                },
+                {
+                    "description": "steel",
+                    "mid": "/m/06qqb",
+                    "score": 0.6087407,
+                    "topicality": 0.6087407
+                },
+                {
+                    "description": "window",
+                    "mid": "/m/0d4v4",
+                    "score": 0.60049236,
+                    "topicality": 0.60049236
+                },
+                {
+                    "description": "material",
+                    "mid": "/m/01l0y0",
+                    "score": 0.58636034,
+                    "topicality": 0.58636034
+                },
+                {
+                    "description": "fence",
+                    "mid": "/m/0blz9",
+                    "score": 0.5256507,
+                    "topicality": 0.5256507
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

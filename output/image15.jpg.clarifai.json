@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2018-02-15T12:21:09.902264125Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_dngMN46t",
+                        "name": "fashion",
+                        "value": 0.975058
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_h0JcPfFL",
+                        "name": "bag",
+                        "value": 0.96543694
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_6lhccv44",
+                        "name": "business",
+                        "value": 0.93828017
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_tdzjP35h",
+                        "name": "leather",
+                        "value": 0.93787336
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_5zxp1Pbd",
+                        "name": "luggage",
+                        "value": 0.929277
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Crr4Pxjt",
+                        "name": "accessory",
+                        "value": 0.9219056
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_dxSG2s86",
+                        "name": "man",
+                        "value": 0.9212857
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_rxcHpHks",
+                        "name": "isolated",
+                        "value": 0.9207262
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Lq00FggW",
+                        "name": "desktop",
+                        "value": 0.90562284
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_4Qjv5PTH",
+                        "name": "modern",
+                        "value": 0.90530086
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_wZCn67qV",
+                        "name": "style",
+                        "value": 0.9039016
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_86sS08Pw",
+                        "name": "wear",
+                        "value": 0.89411557
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_7Xg5SQRW",
+                        "name": "luxury",
+                        "value": 0.89393634
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_786Zr311",
+                        "name": "no person",
+                        "value": 0.88718635
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_j6rltf8j",
+                        "name": "elegant",
+                        "value": 0.88529813
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_kRSBxV6q",
+                        "name": "casual",
+                        "value": 0.88065016
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_7lqns9Hp",
+                        "name": "case",
+                        "value": 0.869414
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_VRmbGVWh",
+                        "name": "travel",
+                        "value": 0.86312884
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_0JbWBDPd",
+                        "name": "color",
+                        "value": 0.85604036
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_RQccV41p",
+                        "name": "woman",
+                        "value": 0.84715146
+                    }
+                ]
+            },
+            "id": "cb87944d676c4a35bc3914358f501c10",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "true",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img2/prod/small/aa95525549c34247952dbd3c29b06244/a58dabf4621b4133a8f2734cd6eacc91"
+                    }
+                },
+                "id": "cadb1a05e01d48be80c14153fd0288da"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 1.5411653518676758,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

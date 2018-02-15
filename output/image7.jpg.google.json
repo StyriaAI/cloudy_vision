@@ -1,0 +1,64 @@
+{
+    "response_time": 1.0530190467834473,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "washing machine",
+                    "mid": "/m/0174k2",
+                    "score": 0.97547406,
+                    "topicality": 0.97547406
+                },
+                {
+                    "description": "major appliance",
+                    "mid": "/m/017_cz",
+                    "score": 0.9444153,
+                    "topicality": 0.9444153
+                },
+                {
+                    "description": "home appliance",
+                    "mid": "/m/019dx1",
+                    "score": 0.93391,
+                    "topicality": 0.93391
+                },
+                {
+                    "description": "clothes dryer",
+                    "mid": "/m/01v2xz",
+                    "score": 0.88867587,
+                    "topicality": 0.88867587
+                },
+                {
+                    "description": "electronics",
+                    "mid": "/m/02mrp",
+                    "score": 0.7415674,
+                    "topicality": 0.7415674
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/01jwgf",
+                    "score": 0.7035495,
+                    "topicality": 0.7035495
+                },
+                {
+                    "description": "laundry",
+                    "mid": "/m/012x6l",
+                    "score": 0.65214217,
+                    "topicality": 0.65214217
+                },
+                {
+                    "description": "product design",
+                    "mid": "/m/03y18t",
+                    "score": 0.54867214,
+                    "topicality": 0.54867214
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

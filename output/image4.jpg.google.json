@@ -1,0 +1,76 @@
+{
+    "response_time": 0.9027462005615234,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "mobile phone",
+                    "mid": "/m/050k8",
+                    "score": 0.9908329,
+                    "topicality": 0.9908329
+                },
+                {
+                    "description": "feature phone",
+                    "mid": "/m/0bxyyx_",
+                    "score": 0.98225355,
+                    "topicality": 0.98225355
+                },
+                {
+                    "description": "portable communications device",
+                    "mid": "/m/020fsy",
+                    "score": 0.95750517,
+                    "topicality": 0.95750517
+                },
+                {
+                    "description": "communication device",
+                    "mid": "/m/0glmwd6",
+                    "score": 0.9564736,
+                    "topicality": 0.9564736
+                },
+                {
+                    "description": "gadget",
+                    "mid": "/m/02mf1n",
+                    "score": 0.94540626,
+                    "topicality": 0.94540626
+                },
+                {
+                    "description": "technology",
+                    "mid": "/m/07c1v",
+                    "score": 0.93201214,
+                    "topicality": 0.93201214
+                },
+                {
+                    "description": "electronic device",
+                    "mid": "/m/0bs7_0t",
+                    "score": 0.9212015,
+                    "topicality": 0.9212015
+                },
+                {
+                    "description": "telephony",
+                    "mid": "/m/0bhmh",
+                    "score": 0.87800634,
+                    "topicality": 0.87800634
+                },
+                {
+                    "description": "cellular network",
+                    "mid": "/m/036xn3",
+                    "score": 0.7688682,
+                    "topicality": 0.7688682
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/02n3pb",
+                    "score": 0.7256933,
+                    "topicality": 0.7256933
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

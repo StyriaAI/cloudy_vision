@@ -1,0 +1,49 @@
+{
+    "adult": {
+        "adultScore": 0.020824169740080833,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.01977786421775818
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.046875
+        },
+        {
+            "name": "text_",
+            "score": 0.578125
+        }
+    ],
+    "color": {
+        "accentColor": "886F3B",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Black",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.7639006009264603,
+                "text": "a close up of a piece of paper"
+            }
+        ],
+        "tags": []
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 143,
+        "width": 256
+    },
+    "requestId": "50517b59-3623-4374-a321-561f2afb4698",
+    "response_time": 1.5469319820404053,
+    "tags": []
+}

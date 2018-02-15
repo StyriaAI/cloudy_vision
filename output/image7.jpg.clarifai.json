@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2018-02-15T12:14:37.050244836Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_GzNlpxwb",
+                        "name": "equipment",
+                        "value": 0.9800898
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_RQPR03hX",
+                        "name": "laundry",
+                        "value": 0.97765124
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_wLXSBc45",
+                        "name": "laundry facility",
+                        "value": 0.9727396
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_cXSwCBJP",
+                        "name": "home appliance",
+                        "value": 0.9702363
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_786Zr311",
+                        "name": "no person",
+                        "value": 0.94847983
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_4ScHvd0z",
+                        "name": "movie",
+                        "value": 0.9438509
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_62K34TR4",
+                        "name": "technology",
+                        "value": 0.94264793
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_4NtJlWbL",
+                        "name": "video recording",
+                        "value": 0.927737
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_4fWZ4LdH",
+                        "name": "kitchenware",
+                        "value": 0.9226879
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_JbCBc2rB",
+                        "name": "television",
+                        "value": 0.9223949
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_92z7j7Vc",
+                        "name": "machine",
+                        "value": 0.9099261
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_WBSxss6P",
+                        "name": "stove",
+                        "value": 0.90677476
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Rz2NGLKS",
+                        "name": "washer",
+                        "value": 0.9037283
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_k76BrtPJ",
+                        "name": "music",
+                        "value": 0.8934891
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_sQzkzjSk",
+                        "name": "speaker",
+                        "value": 0.89240927
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_4Qjv5PTH",
+                        "name": "modern",
+                        "value": 0.88398516
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_C3sXn10x",
+                        "name": "heat",
+                        "value": 0.87430197
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_XjXrH3qf",
+                        "name": "electronics",
+                        "value": 0.8647105
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_j09mzT6j",
+                        "name": "family",
+                        "value": 0.86131704
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_P2ktCFHk",
+                        "name": "plastic",
+                        "value": 0.8571765
+                    }
+                ]
+            },
+            "id": "a3d3d2010da644fc91763bfc11c0f788",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "true",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img2/prod/small/aa95525549c34247952dbd3c29b06244/ec6afaff7f5441ee8a09f357b6d1c536"
+                    }
+                },
+                "id": "db03a3fdbfdb4354a96e4a4acd23a07b"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 1.6879734992980957,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

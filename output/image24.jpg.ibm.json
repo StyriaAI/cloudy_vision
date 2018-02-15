@@ -1,0 +1,43 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "highchair",
+                            "score": 0.946,
+                            "type_hierarchy": "/furniture/seat/chair/highchair"
+                        },
+                        {
+                            "class": "chair",
+                            "score": 0.949
+                        },
+                        {
+                            "class": "seat",
+                            "score": 0.95
+                        },
+                        {
+                            "class": "furniture",
+                            "score": 0.951
+                        },
+                        {
+                            "class": "beige color",
+                            "score": 0.881
+                        },
+                        {
+                            "class": "sage green color",
+                            "score": 0.795
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/image24.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.7550868988037109
+}

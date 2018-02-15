@@ -1,0 +1,76 @@
+{
+    "response_time": 0.8908755779266357,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "clothing",
+                    "mid": "/m/09j2d",
+                    "score": 0.97468483,
+                    "topicality": 0.97468483
+                },
+                {
+                    "description": "black",
+                    "mid": "/m/019sc",
+                    "score": 0.9567384,
+                    "topicality": 0.9567384
+                },
+                {
+                    "description": "dress",
+                    "mid": "/m/01d40f",
+                    "score": 0.9019768,
+                    "topicality": 0.9019768
+                },
+                {
+                    "description": "sleeve",
+                    "mid": "/m/062581",
+                    "score": 0.8244348,
+                    "topicality": 0.8244348
+                },
+                {
+                    "description": "shoulder",
+                    "mid": "/m/01ssh5",
+                    "score": 0.7751733,
+                    "topicality": 0.7751733
+                },
+                {
+                    "description": "one piece garment",
+                    "mid": "/m/0142sg",
+                    "score": 0.7685319,
+                    "topicality": 0.7685319
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/02n3pb",
+                    "score": 0.76700723,
+                    "topicality": 0.76700723
+                },
+                {
+                    "description": "outerwear",
+                    "mid": "/m/047vlmn",
+                    "score": 0.733653,
+                    "topicality": 0.733653
+                },
+                {
+                    "description": "day dress",
+                    "mid": "/m/0hgsb5g",
+                    "score": 0.72139513,
+                    "topicality": 0.72139513
+                },
+                {
+                    "description": "sleeveless shirt",
+                    "mid": "/m/077p0h",
+                    "score": 0.6920877,
+                    "topicality": 0.6920877
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "POSSIBLE",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

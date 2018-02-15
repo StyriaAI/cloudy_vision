@@ -1,0 +1,76 @@
+{
+    "response_time": 0.900853157043457,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "footwear",
+                    "mid": "/m/09j5n",
+                    "score": 0.9915097,
+                    "topicality": 0.9915097
+                },
+                {
+                    "description": "blue",
+                    "mid": "/m/01g5v",
+                    "score": 0.9683925,
+                    "topicality": 0.9683925
+                },
+                {
+                    "description": "white",
+                    "mid": "/m/083jv",
+                    "score": 0.95880663,
+                    "topicality": 0.95880663
+                },
+                {
+                    "description": "shoe",
+                    "mid": "/m/06rrc",
+                    "score": 0.95650876,
+                    "topicality": 0.95650876
+                },
+                {
+                    "description": "aqua",
+                    "mid": "/m/084rsc",
+                    "score": 0.9421059,
+                    "topicality": 0.9421059
+                },
+                {
+                    "description": "sneakers",
+                    "mid": "/m/09kjlm",
+                    "score": 0.90232193,
+                    "topicality": 0.90232193
+                },
+                {
+                    "description": "turquoise",
+                    "mid": "/m/04f6rz",
+                    "score": 0.87139666,
+                    "topicality": 0.87139666
+                },
+                {
+                    "description": "electric blue",
+                    "mid": "/m/02vwbzz",
+                    "score": 0.86028355,
+                    "topicality": 0.86028355
+                },
+                {
+                    "description": "azure",
+                    "mid": "/m/03jn2m",
+                    "score": 0.8235764,
+                    "topicality": 0.8235764
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/02n3pb",
+                    "score": 0.8042781,
+                    "topicality": 0.8042781
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "UNLIKELY",
+                "racy": "UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

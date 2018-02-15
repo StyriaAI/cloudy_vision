@@ -1,0 +1,70 @@
+{
+    "response_time": 1.1348884105682373,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "technology",
+                    "mid": "/m/07c1v",
+                    "score": 0.84628165,
+                    "topicality": 0.84628165
+                },
+                {
+                    "description": "electronics",
+                    "mid": "/m/02mrp",
+                    "score": 0.83708864,
+                    "topicality": 0.83708864
+                },
+                {
+                    "description": "electronic device",
+                    "mid": "/m/0bs7_0t",
+                    "score": 0.72501904,
+                    "topicality": 0.72501904
+                },
+                {
+                    "description": "gadget",
+                    "mid": "/m/02mf1n",
+                    "score": 0.6890685,
+                    "topicality": 0.6890685
+                },
+                {
+                    "description": "multimedia",
+                    "mid": "/m/0541p",
+                    "score": 0.6794714,
+                    "topicality": 0.6794714
+                },
+                {
+                    "description": "communication device",
+                    "mid": "/m/0glmwd6",
+                    "score": 0.66108954,
+                    "topicality": 0.66108954
+                },
+                {
+                    "description": "electronics accessory",
+                    "mid": "/m/0h8ksfs",
+                    "score": 0.5820448,
+                    "topicality": 0.5820448
+                },
+                {
+                    "description": "electronic instrument",
+                    "mid": "/m/0121tl",
+                    "score": 0.5717705,
+                    "topicality": 0.5717705
+                },
+                {
+                    "description": "product",
+                    "mid": "/m/01jwgf",
+                    "score": 0.5095964,
+                    "topicality": 0.5095964
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "VERY_UNLIKELY",
+                "spoof": "VERY_UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "adult": {
+        "adultScore": 0.007964384742081165,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.011622370220720768
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.4140625
+        },
+        {
+            "name": "text_",
+            "score": 0.28515625
+        }
+    ],
+    "color": {
+        "accentColor": "B1881A",
+        "dominantColorBackground": "Yellow",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Yellow",
+            "Brown",
+            "Grey"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.3509439836935254,
+                "text": "a close up of an oven"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "sitting",
+            "table",
+            "top",
+            "wooden",
+            "stove",
+            "kitchen",
+            "white",
+            "oven"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 192,
+        "width": 256
+    },
+    "requestId": "e8154faa-d442-4837-9f99-714d6b322500",
+    "response_time": 1.8420631885528564,
+    "tags": [
+        {
+            "confidence": 0.9961252808570862,
+            "name": "floor"
+        },
+        {
+            "confidence": 0.8949859142303467,
+            "name": "indoor"
+        }
+    ]
+}

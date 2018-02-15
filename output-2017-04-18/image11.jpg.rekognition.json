@@ -1,0 +1,38 @@
+{
+    "Labels": [
+        {
+            "Confidence": 84.03426361083984,
+            "Name": "Book"
+        },
+        {
+            "Confidence": 82.4893569946289,
+            "Name": "Computer"
+        },
+        {
+            "Confidence": 82.4893569946289,
+            "Name": "Electronics"
+        },
+        {
+            "Confidence": 82.4893569946289,
+            "Name": "Laptop"
+        },
+        {
+            "Confidence": 82.4893569946289,
+            "Name": "Pc"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "289",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 15 Feb 2018 11:49:43 GMT",
+            "x-amzn-requestid": "503c9ba7-1246-11e8-8e59-f7d729baab6a"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "503c9ba7-1246-11e8-8e59-f7d729baab6a",
+        "RetryAttempts": 0
+    },
+    "response_time": 0.6310458183288574
+}

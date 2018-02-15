@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2018-02-15T12:19:58.474745476Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_3jQg3f2h",
+                        "name": "cart",
+                        "value": 0.9856595
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_GzMCzJF9",
+                        "name": "chair",
+                        "value": 0.9766505
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_GzNlpxwb",
+                        "name": "equipment",
+                        "value": 0.93813986
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_l2vWw8mr",
+                        "name": "empty",
+                        "value": 0.9353766
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_xxnGcd42",
+                        "name": "seat",
+                        "value": 0.92887455
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_XNpR6lwb",
+                        "name": "inside",
+                        "value": 0.9264391
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_786Zr311",
+                        "name": "no person",
+                        "value": 0.9235749
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Pf2b7clG",
+                        "name": "indoors",
+                        "value": 0.91583526
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_c9n7SB25",
+                        "name": "furniture",
+                        "value": 0.91118526
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_jmQRhNDh",
+                        "name": "chrome",
+                        "value": 0.90724516
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_XdwTxJz3",
+                        "name": "steel",
+                        "value": 0.8992082
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_rGHbdhxH",
+                        "name": "basket",
+                        "value": 0.8598111
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_dwVHS81B",
+                        "name": "tram",
+                        "value": 0.8547953
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Ll3kjqkG",
+                        "name": "show",
+                        "value": 0.85130435
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Mh97GGhK",
+                        "name": "armchair",
+                        "value": 0.83703935
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Lq00FggW",
+                        "name": "desktop",
+                        "value": 0.83700556
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_zFnPQdgB",
+                        "name": "wood",
+                        "value": 0.8231374
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_j09mzT6j",
+                        "name": "family",
+                        "value": 0.82253045
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_8LWlDfFD",
+                        "name": "table",
+                        "value": 0.7978729
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_cMfj16kJ",
+                        "name": "design",
+                        "value": 0.79769766
+                    }
+                ]
+            },
+            "id": "f68b1d22309b4d30ae0f6e3ff045c702",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "true",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img2/prod/small/aa95525549c34247952dbd3c29b06244/f035a07421e345fc9ed5a546a020c071"
+                    }
+                },
+                "id": "eb5d793daf0f4611b81f3146bc6f1cd7"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 1.640239953994751,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

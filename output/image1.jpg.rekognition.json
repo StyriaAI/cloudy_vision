@@ -1,0 +1,22 @@
+{
+    "Labels": [
+        {
+            "Confidence": 99.26055908203125,
+            "Name": "Shopping Cart"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "103",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 15 Feb 2018 12:19:42 GMT",
+            "x-amzn-requestid": "80c90e9f-124a-11e8-8fa4-8f7842f96581"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "80c90e9f-124a-11e8-8fa4-8f7842f96581",
+        "RetryAttempts": 0
+    },
+    "response_time": 0.5134913921356201
+}

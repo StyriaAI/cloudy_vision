@@ -1,0 +1,50 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.59194946289062,
+            "Name": "Human"
+        },
+        {
+            "Confidence": 98.59190368652344,
+            "Name": "People"
+        },
+        {
+            "Confidence": 98.59194946289062,
+            "Name": "Person"
+        },
+        {
+            "Confidence": 97.50272369384766,
+            "Name": "Comics"
+        },
+        {
+            "Confidence": 53.461814880371094,
+            "Name": "Brochure"
+        },
+        {
+            "Confidence": 53.461814880371094,
+            "Name": "Flyer"
+        },
+        {
+            "Confidence": 53.461814880371094,
+            "Name": "Paper"
+        },
+        {
+            "Confidence": 53.461814880371094,
+            "Name": "Poster"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_180",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "444",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 15 Feb 2018 12:15:32 GMT",
+            "x-amzn-requestid": "eb6d46ee-1249-11e8-83bd-6f65004e4033"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "eb6d46ee-1249-11e8-83bd-6f65004e4033",
+        "RetryAttempts": 0
+    },
+    "response_time": 0.5742251873016357
+}

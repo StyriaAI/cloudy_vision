@@ -1,0 +1,42 @@
+{
+    "Labels": [
+        {
+            "Confidence": 94.00038146972656,
+            "Name": "Apple"
+        },
+        {
+            "Confidence": 94.00038146972656,
+            "Name": "Flora"
+        },
+        {
+            "Confidence": 94.00038146972656,
+            "Name": "Food"
+        },
+        {
+            "Confidence": 94.00038146972656,
+            "Name": "Fruit"
+        },
+        {
+            "Confidence": 94.00038146972656,
+            "Name": "Plant"
+        },
+        {
+            "Confidence": 94.00038146972656,
+            "Name": "Produce"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "336",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 15 Feb 2018 12:19:08 GMT",
+            "x-amzn-requestid": "6bce6bf0-124a-11e8-b8fe-0d61fbc8451c"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "6bce6bf0-124a-11e8-b8fe-0d61fbc8451c",
+        "RetryAttempts": 0
+    },
+    "response_time": 0.4461944103240967
+}

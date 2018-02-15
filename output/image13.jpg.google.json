@@ -1,0 +1,64 @@
+{
+    "response_time": 0.9381625652313232,
+    "responses": [
+        {
+            "labelAnnotations": [
+                {
+                    "description": "machine tool",
+                    "mid": "/m/01b5w1",
+                    "score": 0.91977155,
+                    "topicality": 0.91977155
+                },
+                {
+                    "description": "machine",
+                    "mid": "/m/0dkw5",
+                    "score": 0.88929516,
+                    "topicality": 0.88929516
+                },
+                {
+                    "description": "milling",
+                    "mid": "/m/01ng1x",
+                    "score": 0.6944978,
+                    "topicality": 0.6944978
+                },
+                {
+                    "description": "moulder",
+                    "mid": "/m/0556wyg",
+                    "score": 0.6677358,
+                    "topicality": 0.6677358
+                },
+                {
+                    "description": "hardware",
+                    "mid": "/m/03qtgkw",
+                    "score": 0.61226606,
+                    "topicality": 0.61226606
+                },
+                {
+                    "description": "circular saw",
+                    "mid": "/m/0md09",
+                    "score": 0.60506135,
+                    "topicality": 0.60506135
+                },
+                {
+                    "description": "jointer",
+                    "mid": "/m/07nxf2",
+                    "score": 0.5215333,
+                    "topicality": 0.5215333
+                },
+                {
+                    "description": "toolroom",
+                    "mid": "/m/0405h6p",
+                    "score": 0.51073563,
+                    "topicality": 0.51073563
+                }
+            ],
+            "safeSearchAnnotation": {
+                "adult": "VERY_UNLIKELY",
+                "medical": "VERY_UNLIKELY",
+                "racy": "VERY_UNLIKELY",
+                "spoof": "UNLIKELY",
+                "violence": "VERY_UNLIKELY"
+            }
+        }
+    ]
+}

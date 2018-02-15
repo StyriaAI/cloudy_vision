@@ -1,0 +1,170 @@
+{
+    "outputs": [
+        {
+            "created_at": "2018-02-15T11:51:00.308021820Z",
+            "data": {
+                "concepts": [
+                    {
+                        "app_id": "main",
+                        "id": "ai_GzNlpxwb",
+                        "name": "equipment",
+                        "value": 0.99202824
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_62K34TR4",
+                        "name": "technology",
+                        "value": 0.9904171
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_QxkldccF",
+                        "name": "measure",
+                        "value": 0.9827822
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_9CnNn4n5",
+                        "name": "test",
+                        "value": 0.98124033
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_Qbldzzv0",
+                        "name": "device",
+                        "value": 0.9785236
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_xwwNqzCt",
+                        "name": "gauge",
+                        "value": 0.97805107
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_M8sQ9ML9",
+                        "name": "display",
+                        "value": 0.9758718
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_ZssXw3dj",
+                        "name": "instrument",
+                        "value": 0.9736061
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_lvj2zQS4",
+                        "name": "control",
+                        "value": 0.96863663
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_XjXrH3qf",
+                        "name": "electronics",
+                        "value": 0.9672061
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_pP8hznr6",
+                        "name": "blood",
+                        "value": 0.9602983
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_WHTQkhLr",
+                        "name": "pulse",
+                        "value": 0.9435752
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_0xgpwDWl",
+                        "name": "monitor",
+                        "value": 0.9421495
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_P2ktCFHk",
+                        "name": "plastic",
+                        "value": 0.9266347
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_xtgFN8Q0",
+                        "name": "medicine",
+                        "value": 0.92498386
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_HqxlcGHD",
+                        "name": "surveillance",
+                        "value": 0.91662943
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_JtF7GmQq",
+                        "name": "hospital",
+                        "value": 0.9165902
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_42Dl0Qrd",
+                        "name": "number",
+                        "value": 0.9115704
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_pPJbNBqf",
+                        "name": "connection",
+                        "value": 0.8961514
+                    },
+                    {
+                        "app_id": "main",
+                        "id": "ai_PpTcwbdQ",
+                        "name": "computer",
+                        "value": 0.8946068
+                    }
+                ]
+            },
+            "id": "cb9f7df97ed64f66bdf27e14e183270e",
+            "input": {
+                "data": {
+                    "image": {
+                        "base64": "true",
+                        "url": "https://s3.amazonaws.com/clarifai-api/img2/prod/small/aa95525549c34247952dbd3c29b06244/be21636eb9f34dc6aa7230dc07e701c3"
+                    }
+                },
+                "id": "aa78e99b3166440988fc1a8bed17d79e"
+            },
+            "model": {
+                "app_id": "main",
+                "created_at": "2016-03-09T17:11:39.608845Z",
+                "display_name": "General",
+                "id": "aaa03c23b3724a16a56b629203edc62c",
+                "model_version": {
+                    "created_at": "2016-07-13T01:19:12.147644Z",
+                    "id": "aa9ca48295b37401f8af92ad1af0d91d",
+                    "status": {
+                        "code": 21100,
+                        "description": "Model trained successfully"
+                    }
+                },
+                "name": "general-v1.3",
+                "output_info": {
+                    "message": "Show output_info with: GET /models/{model_id}/output_info",
+                    "type": "concept",
+                    "type_ext": "concept"
+                }
+            },
+            "status": {
+                "code": 10000,
+                "description": "Ok"
+            }
+        }
+    ],
+    "response_time": 2.307603120803833,
+    "status": {
+        "code": 10000,
+        "description": "Ok"
+    }
+}

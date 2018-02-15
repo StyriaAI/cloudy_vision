@@ -1,0 +1,101 @@
+{
+    "adult": {
+        "adultScore": 0.04641539603471756,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.03250138834118843
+    },
+    "categories": [
+        {
+            "name": "abstract_",
+            "score": 0.0078125
+        },
+        {
+            "name": "others_",
+            "score": 0.0390625
+        }
+    ],
+    "color": {
+        "accentColor": "3F322F",
+        "dominantColorBackground": "Grey",
+        "dominantColorForeground": "Grey",
+        "dominantColors": [
+            "Grey"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.8240544458797912,
+                "text": "a chair in a room"
+            }
+        ],
+        "tags": [
+            "indoor",
+            "furniture",
+            "seat",
+            "chair",
+            "sitting",
+            "table",
+            "small",
+            "room",
+            "laptop",
+            "kitchen",
+            "desk",
+            "computer",
+            "white",
+            "wooden",
+            "top",
+            "bed",
+            "black",
+            "living",
+            "refrigerator",
+            "stool",
+            "large",
+            "dog",
+            "standing",
+            "bedroom",
+            "red",
+            "man",
+            "laying",
+            "stove",
+            "oven",
+            "cat"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 256,
+        "width": 144
+    },
+    "requestId": "5c12b345-cbf8-489f-a6f9-6a757963a019",
+    "response_time": 1.8209388256072998,
+    "tags": [
+        {
+            "confidence": 0.997995138168335,
+            "name": "floor"
+        },
+        {
+            "confidence": 0.9946163296699524,
+            "name": "wall"
+        },
+        {
+            "confidence": 0.9913297891616821,
+            "name": "indoor"
+        },
+        {
+            "confidence": 0.974324643611908,
+            "name": "furniture"
+        },
+        {
+            "confidence": 0.8763736486434937,
+            "name": "seat"
+        }
+    ]
+}

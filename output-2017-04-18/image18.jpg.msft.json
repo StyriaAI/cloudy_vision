@@ -1,0 +1,67 @@
+{
+    "adult": {
+        "adultScore": 0.007436149753630161,
+        "isAdultContent": false,
+        "isRacyContent": false,
+        "racyScore": 0.009654849767684937
+    },
+    "categories": [
+        {
+            "name": "others_",
+            "score": 0.984375
+        }
+    ],
+    "color": {
+        "accentColor": "C47E07",
+        "dominantColorBackground": "White",
+        "dominantColorForeground": "White",
+        "dominantColors": [
+            "White"
+        ],
+        "isBwImg": false
+    },
+    "description": {
+        "captions": [
+            {
+                "confidence": 0.6548569787322159,
+                "text": "a close up of a phone"
+            }
+        ],
+        "tags": [
+            "thing",
+            "table",
+            "white",
+            "black",
+            "sitting",
+            "phone",
+            "display",
+            "laying"
+        ]
+    },
+    "faces": [],
+    "imageType": {
+        "clipArtType": 0,
+        "lineDrawingType": 0
+    },
+    "metadata": {
+        "format": "Jpeg",
+        "height": 234,
+        "width": 256
+    },
+    "requestId": "323783a3-760f-476f-911e-831b5e9b90af",
+    "response_time": 1.7685160636901855,
+    "tags": [
+        {
+            "confidence": 0.9056718349456787,
+            "name": "device"
+        },
+        {
+            "confidence": 0.6458972096443176,
+            "name": "white"
+        },
+        {
+            "confidence": 0.34000229835510254,
+            "name": "gauge"
+        }
+    ]
+}

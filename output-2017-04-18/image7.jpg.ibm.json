@@ -1,0 +1,65 @@
+{
+    "custom_classes": 0,
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classes": [
+                        {
+                            "class": "car",
+                            "score": 0.921,
+                            "type_hierarchy": "/vehicle/wheeled vehicle/car"
+                        },
+                        {
+                            "class": "wheeled vehicle",
+                            "score": 0.85
+                        },
+                        {
+                            "class": "vehicle",
+                            "score": 0.851
+                        },
+                        {
+                            "class": "power steering",
+                            "score": 0.588
+                        },
+                        {
+                            "class": "shooting brake",
+                            "score": 0.557,
+                            "type_hierarchy": "/vehicle/wheeled vehicle/car/shooting brake"
+                        },
+                        {
+                            "class": "sedan",
+                            "score": 0.535,
+                            "type_hierarchy": "/vehicle/wheeled vehicle/car/sedan"
+                        },
+                        {
+                            "class": "machine",
+                            "score": 0.5
+                        },
+                        {
+                            "class": "mechanism",
+                            "score": 0.801
+                        },
+                        {
+                            "class": "protective covering",
+                            "score": 0.789
+                        },
+                        {
+                            "class": "ash grey color",
+                            "score": 0.931
+                        },
+                        {
+                            "class": "steel blue color",
+                            "score": 0.889
+                        }
+                    ],
+                    "classifier_id": "default",
+                    "name": "default"
+                }
+            ],
+            "image": "input_images/image7.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "response_time": 0.9693129062652588
+}

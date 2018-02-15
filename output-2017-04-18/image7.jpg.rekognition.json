@@ -1,0 +1,74 @@
+{
+    "Labels": [
+        {
+            "Confidence": 97.29310607910156,
+            "Name": "Automobile"
+        },
+        {
+            "Confidence": 97.29310607910156,
+            "Name": "Car"
+        },
+        {
+            "Confidence": 97.29310607910156,
+            "Name": "Transportation"
+        },
+        {
+            "Confidence": 97.29310607910156,
+            "Name": "Vehicle"
+        },
+        {
+            "Confidence": 73.77748107910156,
+            "Name": "Engine"
+        },
+        {
+            "Confidence": 73.77748107910156,
+            "Name": "Machine"
+        },
+        {
+            "Confidence": 73.77748107910156,
+            "Name": "Motor"
+        },
+        {
+            "Confidence": 71.74311828613281,
+            "Name": "Sedan"
+        },
+        {
+            "Confidence": 71.54147338867188,
+            "Name": "Traffic Jam"
+        },
+        {
+            "Confidence": 57.968299865722656,
+            "Name": "Suv"
+        },
+        {
+            "Confidence": 56.78156661987305,
+            "Name": "Offroad"
+        },
+        {
+            "Confidence": 55.90247344970703,
+            "Name": "Caravan"
+        },
+        {
+            "Confidence": 55.90247344970703,
+            "Name": "Van"
+        },
+        {
+            "Confidence": 50.89308547973633,
+            "Name": "Bumper"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "744",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 15 Feb 2018 11:47:23 GMT",
+            "x-amzn-requestid": "fd0a8b32-1245-11e8-9d77-e1747e6758cb"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "fd0a8b32-1245-11e8-9d77-e1747e6758cb",
+        "RetryAttempts": 0
+    },
+    "response_time": 0.7699434757232666
+}

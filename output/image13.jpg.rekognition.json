@@ -1,0 +1,38 @@
+{
+    "Labels": [
+        {
+            "Confidence": 75.026123046875,
+            "Name": "Lathe"
+        },
+        {
+            "Confidence": 75.026123046875,
+            "Name": "Machine"
+        },
+        {
+            "Confidence": 69.90129089355469,
+            "Name": "Generator"
+        },
+        {
+            "Confidence": 55.57491683959961,
+            "Name": "Engine"
+        },
+        {
+            "Confidence": 55.57491683959961,
+            "Name": "Motor"
+        }
+    ],
+    "OrientationCorrection": "ROTATE_0",
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "connection": "keep-alive",
+            "content-length": "290",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 15 Feb 2018 12:18:13 GMT",
+            "x-amzn-requestid": "4bd3780c-124a-11e8-800a-dd699f49b5a8"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "4bd3780c-124a-11e8-800a-dd699f49b5a8",
+        "RetryAttempts": 0
+    },
+    "response_time": 0.40770840644836426
+}
